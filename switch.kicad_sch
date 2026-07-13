@@ -509,70 +509,38 @@
 		)
 	)
 	(junction
-		(at 138.43 88.9)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "11bac64d-5515-42e1-8630-fe0e2ee686ad")
-	)
-	(junction
-		(at 138.43 111.76)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "25067e9c-0e24-43eb-b03a-19a5306f9ee7")
-	)
-	(junction
-		(at 90.17 101.6)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3848889f-5891-48bc-846d-f1cd0cb63987")
-	)
-	(junction
 		(at 90.17 113.03)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "6bbe62cf-e4e8-4057-a1e5-fdd1104b0901")
+		(uuid "2fbc5a04-33fe-4d72-8a85-57422c5cebb8")
 	)
 	(junction
-		(at 138.43 100.33)
+		(at 138.43 88.9)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "9b198815-05af-420b-ae62-a24e842de6d6")
+		(uuid "3b8d49e3-9b99-47bd-9227-24ed043fbe2a")
 	)
 	(junction
 		(at 90.17 90.17)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "c8dfaeef-8b0e-4e9e-820d-4b86249073be")
+		(uuid "493333bd-5a6c-4cbe-b915-193329c512ec")
+	)
+	(junction
+		(at 90.17 101.6)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "87918f60-7574-4e02-8c2a-4a1bc6024318")
 	)
 	(wire
 		(pts
-			(xy 138.43 100.33) (xy 138.43 111.76)
+			(xy 90.17 113.03) (xy 90.17 119.38)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "0f9e1433-88aa-4073-b754-fda0d076b752")
-	)
-	(wire
-		(pts
-			(xy 148.59 111.76) (xy 152.4 111.76)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "269f91dd-5d4f-4ebe-80fe-b1f336d326ad")
-	)
-	(wire
-		(pts
-			(xy 138.43 88.9) (xy 138.43 100.33)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "32966d43-4b79-4ff9-9d54-ac00da88ae82")
+		(uuid "179e2251-9f99-4b07-9381-fb0dfe81b82b")
 	)
 	(wire
 		(pts
@@ -606,16 +574,6 @@
 	)
 	(wire
 		(pts
-			(xy 90.17 113.03) (xy 90.17 119.38)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "55207c18-bbdf-4c5b-86c1-25ff0db9ba69")
-	)
-	(wire
-		(pts
 			(xy 167.64 74.93) (xy 160.02 74.93)
 		)
 		(stroke
@@ -643,16 +601,6 @@
 			(type default)
 		)
 		(uuid "5f139359-d51f-4cb3-be4f-0006bf04a457")
-	)
-	(wire
-		(pts
-			(xy 138.43 111.76) (xy 138.43 118.11)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6dfdb151-ea73-47a4-8273-0339a16c8f7c")
 	)
 	(wire
 		(pts
@@ -696,6 +644,16 @@
 	)
 	(wire
 		(pts
+			(xy 90.17 90.17) (xy 90.17 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "81449c8a-f724-4249-8a8c-80aae9ee9b3d")
+	)
+	(wire
+		(pts
 			(xy 119.38 76.2) (xy 111.76 76.2)
 		)
 		(stroke
@@ -706,13 +664,13 @@
 	)
 	(wire
 		(pts
-			(xy 167.64 100.33) (xy 160.02 100.33)
+			(xy 90.17 101.6) (xy 90.17 113.03)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "934decdd-9c1a-48fd-9efa-302a12f0bdfd")
+		(uuid "8f86ec79-72ce-4a65-a4cf-92bb5606eaf0")
 	)
 	(wire
 		(pts
@@ -726,27 +684,7 @@
 	)
 	(wire
 		(pts
-			(xy 167.64 111.76) (xy 160.02 111.76)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b511ff56-583c-45ed-bd2a-6b3868e8c801")
-	)
-	(wire
-		(pts
 			(xy 90.17 76.2) (xy 90.17 90.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c1d3bdd0-f165-4d67-b9c4-7042603c7168")
-	)
-	(wire
-		(pts
-			(xy 90.17 101.6) (xy 90.17 113.03)
 		)
 		(stroke
 			(width 0)
@@ -756,23 +694,13 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 100.33) (xy 152.4 100.33)
+			(xy 138.43 88.9) (xy 138.43 118.11)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "df6809cc-ea59-42db-8b1e-117587a79618")
-	)
-	(wire
-		(pts
-			(xy 90.17 90.17) (xy 90.17 101.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e24723cf-05ef-4473-8820-ca104461f797")
+		(uuid "ecc67354-7125-4a02-8bbf-bb594e846204")
 	)
 	(wire
 		(pts
@@ -784,201 +712,75 @@
 		)
 		(uuid "f368fb29-fc7b-4969-a5d3-ef368a4dae75")
 	)
-	(global_label "GPIO28"
-		(shape input)
-		(at 167.64 74.93 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "1358554f-8e73-4409-a6ec-52c42ae196c1")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 177.4401 74.93 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
-	(global_label "GPIO29"
-		(shape input)
-		(at 167.64 100.33 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "4bcedbf6-15ee-4d66-b537-e2258dfd47bf")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 177.4401 100.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
-	(global_label "GPIO29"
-		(shape input)
-		(at 167.64 88.9 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "60b5b986-b570-43c9-b27d-e56b8f6ef1b4")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 177.4401 88.9 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
-	(global_label "GPIO24"
-		(shape input)
-		(at 119.38 113.03 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "70e6be3a-fd47-4b76-91b5-e18b5f985a26")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 129.1801 113.03 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
-	(global_label "GPIO25"
+	(hierarchical_label "sw3"
 		(shape input)
 		(at 119.38 101.6 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "a55aba43-a473-4bb9-8c09-9397a6877a57")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 129.1801 101.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
+		(uuid "1280c958-c2d1-4ba1-b1ff-7959d2e19ee7")
 	)
-	(global_label "GPIO30"
-		(shape input)
-		(at 167.64 111.76 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "c32cbe2a-7a37-46d1-9af4-b8bc98e528df")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 177.4401 111.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
-	(global_label "GPIO27"
-		(shape input)
-		(at 119.38 76.2 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "e614d0f9-b0f8-4219-a4fc-2e3eff60564f")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 129.1801 76.2 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
-	(global_label "GPIO26"
+	(hierarchical_label "sw2"
 		(shape input)
 		(at 119.38 90.17 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "ebc6d8ae-9ba2-4a96-8814-3dd3acb213b7")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 129.1801 90.17 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
+		(uuid "3471b2d3-fd7f-4c62-a55c-f6d4e14e2bc3")
+	)
+	(hierarchical_label "sw6"
+		(shape input)
+		(at 167.64 88.9 0)
+		(effects
+			(font
+				(size 1.27 1.27)
 			)
+			(justify left)
 		)
+		(uuid "77ff7d20-0c8a-4f12-b9a6-44d16e99292b")
+	)
+	(hierarchical_label "sw4"
+		(shape input)
+		(at 119.38 113.03 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "851148ed-d373-4415-ba96-3ae9696b50be")
+	)
+	(hierarchical_label "sw5"
+		(shape input)
+		(at 167.64 74.93 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "853227d7-3bd1-4ff2-bad8-28252befe1ed")
+	)
+	(hierarchical_label "sw1"
+		(shape input)
+		(at 119.38 76.2 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "aa0cba84-de69-442f-a312-0d351eeee72f")
 	)
 	(symbol
 		(lib_id "Switch:SW_Push_Dual_x2")
-		(at 95.25 76.2 0)
+		(at 143.51 74.93 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -987,9 +789,9 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "06e47d32-3655-477f-b661-f42f4a2880a6")
-		(property "Reference" "SW1"
-			(at 95.25 68.58 0)
+		(uuid "02bd90a0-38bd-43b8-ad1f-730efab451d0")
+		(property "Reference" "SW5"
+			(at 143.51 67.31 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -998,8 +800,9 @@
 				)
 			)
 		)
-		(property "Value" "mclr"
-			(at 95.25 71.12 0)
+		(property "Value" ""
+			(at 143.51 69.85 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1009,7 +812,7 @@
 			)
 		)
 		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_CK_KSC6xxJ"
-			(at 95.25 71.12 0)
+			(at 143.51 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1020,7 +823,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 95.25 71.12 0)
+			(at 143.51 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1031,7 +834,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 95.25 76.2 0)
+			(at 143.51 74.93 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1041,21 +844,21 @@
 			)
 		)
 		(pin "1"
-			(uuid "211d474f-47fc-4c6d-8e2e-92e0b6b71b66")
+			(uuid "8062117a-7d0c-44e6-bb6d-fc4b43091a25")
 		)
 		(pin "2"
-			(uuid "7a889073-93ff-4c56-81e0-1d432d6aec47")
+			(uuid "606b16b4-8cb3-4676-8754-38a142215bce")
 		)
 		(pin "3"
-			(uuid "cdfcef72-df39-47ca-9394-b083be4d77de")
+			(uuid "cdfcef72-df39-47ca-9394-b083be4d77e1")
 		)
 		(pin "4"
-			(uuid "b3d61ab8-8e16-4daf-a86e-35079811b343")
+			(uuid "b3d61ab8-8e16-4daf-a86e-35079811b346")
 		)
 		(instances
 			(project "nfc_rpi"
 				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/ef9193a8-fc5f-44fd-92e9-9de4f9e10db6"
-					(reference "SW1")
+					(reference "SW5")
 					(unit 1)
 				)
 			)
@@ -1141,7 +944,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push_Dual_x2")
-		(at 95.25 113.03 0)
+		(at 95.25 76.2 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1151,6 +954,92 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "292a1a8f-2fd9-422a-9396-e20ed8fc6012")
+		(property "Reference" "SW1"
+			(at 95.25 68.58 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 95.25 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_CK_KSC6xxJ"
+			(at 95.25 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 95.25 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 95.25 76.2 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "2df28625-5980-4f1e-bce1-0a177f52c0f4")
+		)
+		(pin "2"
+			(uuid "07f17af8-658a-414f-b37a-bb428a359185")
+		)
+		(pin "3"
+			(uuid "cdfcef72-df39-47ca-9394-b083be4d77e2")
+		)
+		(pin "4"
+			(uuid "b3d61ab8-8e16-4daf-a86e-35079811b347")
+		)
+		(instances
+			(project "nfc_rpi"
+				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/ef9193a8-fc5f-44fd-92e9-9de4f9e10db6"
+					(reference "SW1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_Dual_x2")
+		(at 95.25 113.03 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2e9f7b76-09d2-4fa0-bf72-af4c2838e76b")
 		(property "Reference" "SW4"
 			(at 95.25 105.41 0)
 			(show_name no)
@@ -1205,106 +1094,21 @@
 			)
 		)
 		(pin "1"
-			(uuid "2df28625-5980-4f1e-bce1-0a177f52c0f4")
+			(uuid "d36dd78c-e6c1-45cd-a857-5ce33d00cb2c")
 		)
 		(pin "2"
-			(uuid "07f17af8-658a-414f-b37a-bb428a359185")
+			(uuid "2a30461f-152f-4090-b047-8c999c710587")
 		)
 		(pin "3"
-			(uuid "cdfcef72-df39-47ca-9394-b083be4d77e1")
+			(uuid "cdfcef72-df39-47ca-9394-b083be4d77e3")
 		)
 		(pin "4"
-			(uuid "b3d61ab8-8e16-4daf-a86e-35079811b346")
+			(uuid "b3d61ab8-8e16-4daf-a86e-35079811b348")
 		)
 		(instances
 			(project "nfc_rpi"
 				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/ef9193a8-fc5f-44fd-92e9-9de4f9e10db6"
 					(reference "SW4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push_Dual_x2")
-		(at 143.51 74.93 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "3553fce0-b0f0-4147-bd11-485acc322374")
-		(property "Reference" "SW5"
-			(at 143.51 67.31 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "mclr"
-			(at 143.51 69.85 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_CK_KSC6xxJ"
-			(at 143.51 69.85 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 143.51 69.85 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 143.51 74.93 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "81e2919f-f79d-4874-8208-385ebab0bfab")
-		)
-		(pin "2"
-			(uuid "5abc8a32-e6bb-4b21-a65f-952a22c69270")
-		)
-		(pin "3"
-			(uuid "cdfcef72-df39-47ca-9394-b083be4d77df")
-		)
-		(pin "4"
-			(uuid "b3d61ab8-8e16-4daf-a86e-35079811b344")
-		)
-		(instances
-			(project "nfc_rpi"
-				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/ef9193a8-fc5f-44fd-92e9-9de4f9e10db6"
-					(reference "SW5")
 					(unit 1)
 				)
 			)
@@ -1400,7 +1204,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4c1ef27d-77d9-4ee7-9489-a567e9819cc5")
-		(property "Reference" "#PWR018"
+		(property "Reference" "#PWR02"
 			(at 90.17 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -1459,7 +1263,7 @@
 		(instances
 			(project "nfc_rpi"
 				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/ef9193a8-fc5f-44fd-92e9-9de4f9e10db6"
-					(reference "#PWR018")
+					(reference "#PWR02")
 					(unit 1)
 				)
 			)
@@ -1467,7 +1271,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push_Dual_x2")
-		(at 143.51 111.76 0)
+		(at 143.51 88.9 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1476,9 +1280,9 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "50345789-87e0-43cc-9362-79e051807f2a")
-		(property "Reference" "SW8"
-			(at 143.51 104.14 0)
+		(uuid "5a3fd1ac-24f4-40a9-8b7c-1a7b98437943")
+		(property "Reference" "SW6"
+			(at 143.51 81.28 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1488,7 +1292,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 143.51 106.68 0)
+			(at 143.51 83.82 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1499,7 +1303,7 @@
 			)
 		)
 		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_CK_KSC6xxJ"
-			(at 143.51 106.68 0)
+			(at 143.51 83.82 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1510,7 +1314,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 143.51 106.68 0)
+			(at 143.51 83.82 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1521,7 +1325,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 143.51 111.76 0)
+			(at 143.51 88.9 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1531,21 +1335,21 @@
 			)
 		)
 		(pin "1"
-			(uuid "5814a33d-31b2-402c-947e-6a418192b631")
+			(uuid "2452ce42-6cd4-4124-9a11-6366cca4a308")
 		)
 		(pin "2"
-			(uuid "304bed9d-cf13-41da-8393-4c8f50046127")
+			(uuid "5bb517b6-19ab-430a-9c21-caf177e094a4")
 		)
 		(pin "3"
-			(uuid "cdfcef72-df39-47ca-9394-b083be4d77dd")
+			(uuid "cdfcef72-df39-47ca-9394-b083be4d77e5")
 		)
 		(pin "4"
-			(uuid "b3d61ab8-8e16-4daf-a86e-35079811b342")
+			(uuid "b3d61ab8-8e16-4daf-a86e-35079811b34a")
 		)
 		(instances
 			(project "nfc_rpi"
 				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/ef9193a8-fc5f-44fd-92e9-9de4f9e10db6"
-					(reference "SW8")
+					(reference "SW6")
 					(unit 1)
 				)
 			)
@@ -1563,7 +1367,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "653dfdf8-f4b6-4e45-be57-d71df9db289f")
-		(property "Reference" "#PWR019"
+		(property "Reference" "#PWR05"
 			(at 138.43 124.46 0)
 			(hide yes)
 			(show_name no)
@@ -1622,93 +1426,7 @@
 		(instances
 			(project "nfc_rpi"
 				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/ef9193a8-fc5f-44fd-92e9-9de4f9e10db6"
-					(reference "#PWR019")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push_Dual_x2")
-		(at 143.51 100.33 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "736522ef-f5c0-47b9-97ec-d436044612c3")
-		(property "Reference" "SW7"
-			(at 143.51 92.71 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" ""
-			(at 143.51 95.25 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_CK_KSC6xxJ"
-			(at 143.51 95.25 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 143.51 95.25 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 143.51 100.33 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "88f02574-20dc-410f-8229-a95b811ddd0d")
-		)
-		(pin "2"
-			(uuid "f4a6599f-d679-4203-8f4f-f5ce2abdcfd1")
-		)
-		(pin "3"
-			(uuid "cdfcef72-df39-47ca-9394-b083be4d77e0")
-		)
-		(pin "4"
-			(uuid "b3d61ab8-8e16-4daf-a86e-35079811b345")
-		)
-		(instances
-			(project "nfc_rpi"
-				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/ef9193a8-fc5f-44fd-92e9-9de4f9e10db6"
-					(reference "SW7")
+					(reference "#PWR05")
 					(unit 1)
 				)
 			)
@@ -1803,7 +1521,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "884d5f4a-936e-4559-b19d-261ca4f21a82")
+		(uuid "7f10606a-90ab-49bf-806f-f06cfc6e8d52")
 		(property "Reference" "SW3"
 			(at 95.25 93.98 0)
 			(show_name no)
@@ -1858,16 +1576,16 @@
 			)
 		)
 		(pin "1"
-			(uuid "f0d37298-3074-4caa-9fa4-b5a7ca4ef5e7")
+			(uuid "83e8877a-2340-4235-b352-c277f930719c")
 		)
 		(pin "2"
-			(uuid "8a58f6b3-68e4-4024-b5b5-d43cf8f175b8")
+			(uuid "9fb53f6c-2669-436f-8487-926e4a3ee484")
 		)
 		(pin "3"
-			(uuid "cdfcef72-df39-47ca-9394-b083be4d77da")
+			(uuid "cdfcef72-df39-47ca-9394-b083be4d77e6")
 		)
 		(pin "4"
-			(uuid "b3d61ab8-8e16-4daf-a86e-35079811b33f")
+			(uuid "b3d61ab8-8e16-4daf-a86e-35079811b34b")
 		)
 		(instances
 			(project "nfc_rpi"
@@ -1879,8 +1597,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_US")
-		(at 156.21 111.76 270)
+		(lib_id "Switch:SW_Push_Dual_x2")
+		(at 95.25 90.17 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1888,9 +1606,10 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "c26ac96a-5016-478b-80cb-27908f89b020")
-		(property "Reference" "R10"
-			(at 156.21 105.41 90)
+		(fields_autoplaced yes)
+		(uuid "aff516e0-1d60-4241-a8ef-53ab02e93f59")
+		(property "Reference" "SW2"
+			(at 95.25 82.55 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1900,7 +1619,8 @@
 			)
 		)
 		(property "Value" ""
-			(at 156.21 107.95 90)
+			(at 95.25 85.09 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1909,8 +1629,8 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 155.956 112.776 90)
+		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_CK_KSC6xxJ"
+			(at 95.25 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1921,7 +1641,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 156.21 111.76 0)
+			(at 95.25 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1932,7 +1652,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 156.21 111.76 0)
+			(at 95.25 90.17 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1942,15 +1662,21 @@
 			)
 		)
 		(pin "1"
-			(uuid "09d017f1-0122-4481-9e11-bf9acb992c21")
+			(uuid "cc59f639-b882-4c12-8eb6-7cd8a95b807f")
 		)
 		(pin "2"
-			(uuid "22670108-713f-4f8f-b358-70a41e072eb3")
+			(uuid "6358f332-5c17-4c59-b255-d666cbde6702")
+		)
+		(pin "3"
+			(uuid "cdfcef72-df39-47ca-9394-b083be4d77e8")
+		)
+		(pin "4"
+			(uuid "b3d61ab8-8e16-4daf-a86e-35079811b34d")
 		)
 		(instances
 			(project "nfc_rpi"
 				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/ef9193a8-fc5f-44fd-92e9-9de4f9e10db6"
-					(reference "R10")
+					(reference "SW2")
 					(unit 1)
 				)
 			)
@@ -2029,178 +1755,6 @@
 			(project "nfc_rpi"
 				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/ef9193a8-fc5f-44fd-92e9-9de4f9e10db6"
 					(reference "R6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push_Dual_x2")
-		(at 95.25 90.17 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "cad64019-013f-4741-8120-7b22a67be764")
-		(property "Reference" "SW2"
-			(at 95.25 82.55 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" ""
-			(at 95.25 85.09 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_CK_KSC6xxJ"
-			(at 95.25 85.09 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 95.25 85.09 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 95.25 90.17 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "268eac36-3c37-4616-963d-6baccb660f92")
-		)
-		(pin "2"
-			(uuid "79e53921-d321-4db1-bb1f-36752a36fcb5")
-		)
-		(pin "3"
-			(uuid "cdfcef72-df39-47ca-9394-b083be4d77db")
-		)
-		(pin "4"
-			(uuid "b3d61ab8-8e16-4daf-a86e-35079811b340")
-		)
-		(instances
-			(project "nfc_rpi"
-				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/ef9193a8-fc5f-44fd-92e9-9de4f9e10db6"
-					(reference "SW2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push_Dual_x2")
-		(at 143.51 88.9 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "dac29027-0329-4a85-a311-59cdb28f5989")
-		(property "Reference" "SW6"
-			(at 143.51 81.28 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" ""
-			(at 143.51 83.82 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_CK_KSC6xxJ"
-			(at 143.51 83.82 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 143.51 83.82 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 143.51 88.9 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "356bb036-f266-45fd-81a4-6f4a717a2b82")
-		)
-		(pin "2"
-			(uuid "9ad40389-d4d9-4c60-b984-87d098c7f49e")
-		)
-		(pin "3"
-			(uuid "cdfcef72-df39-47ca-9394-b083be4d77dc")
-		)
-		(pin "4"
-			(uuid "b3d61ab8-8e16-4daf-a86e-35079811b341")
-		)
-		(instances
-			(project "nfc_rpi"
-				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/ef9193a8-fc5f-44fd-92e9-9de4f9e10db6"
-					(reference "SW6")
 					(unit 1)
 				)
 			)
@@ -2357,84 +1911,6 @@
 			(project "nfc_rpi"
 				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/ef9193a8-fc5f-44fd-92e9-9de4f9e10db6"
 					(reference "R8")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_US")
-		(at 156.21 100.33 270)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "f161f681-62e6-4db3-a962-323afd97a52f")
-		(property "Reference" "R9"
-			(at 156.21 93.98 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" ""
-			(at 156.21 96.52 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 155.956 101.346 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 156.21 100.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 156.21 100.33 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "34660400-5c3d-4953-a989-1d0596a36deb")
-		)
-		(pin "2"
-			(uuid "a8d38048-280e-49cb-8eb3-3e5601cc4146")
-		)
-		(instances
-			(project "nfc_rpi"
-				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/ef9193a8-fc5f-44fd-92e9-9de4f9e10db6"
-					(reference "R9")
 					(unit 1)
 				)
 			)

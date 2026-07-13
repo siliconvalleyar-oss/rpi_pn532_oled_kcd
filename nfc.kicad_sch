@@ -53,7 +53,7 @@
 	)
 	(sheet
 		(at 55.245 47.625)
-		(size 50.165 40.005)
+		(size 50.165 65)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -67,7 +67,7 @@
 			(color 0 0 0 0)
 		)
 		(uuid "93a7c070-cb0d-4079-a6d6-049c79d871c4")
-		(property "Sheetname" "AnalogDevice"
+		(property "Sheetname" "DiscoveryAnalog3"
 			(at 55.245 46.9134 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -78,7 +78,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "AnalogDevice.kicad_sch"
+		(property "Sheetfile" "DiscoveryAnalog3.kicad_sch"
 			(at 55.245 88.2146 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -96,10 +96,244 @@
 				)
 			)
 		)
+		(pin "D8" bidirectional
+			(at 55.245 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+			(uuid "a10c66f8-90a3-40c4-8ba5-afbf7369cf62")
+		)
+		(pin "D7" bidirectional
+			(at 55.245 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+			(uuid "facb1a94-cee4-4e63-a3f6-0c868b67e09e")
+		)
+		(pin "D6" bidirectional
+			(at 55.245 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+			(uuid "cfc248ef-ba70-425e-9ce6-d195f6bd1945")
+		)
+		(pin "D5" bidirectional
+			(at 55.245 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+			(uuid "b4b5928b-4fd2-4d28-8b4a-7e86ec88e6d5")
+		)
+		(pin "D4" bidirectional
+			(at 55.245 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+			(uuid "45bdb4c4-da73-47d8-9b16-3d48efcf57af")
+		)
+		(pin "D3" bidirectional
+			(at 55.245 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+			(uuid "86404867-9b7f-48e1-b092-464a63d9f11b")
+		)
+		(pin "D2" bidirectional
+			(at 55.245 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+			(uuid "49848fa8-d428-4de6-82f5-cbe80978dda7")
+		)
+		(pin "D1" bidirectional
+			(at 55.245 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+			(uuid "1db70ef8-f4de-47fc-aa34-afbedf206ff2")
+		)
+		(pin "Trigger Input (T1)" bidirectional
+			(at 55.245 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+			(uuid "fae97f8a-3ca6-4c74-858b-d380a8f14dfc")
+		)
+		(pin "AWG1 (W1)" bidirectional
+			(at 55.245 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+			(uuid "49799b92-91e5-48d1-9bd6-6640e9cbb8ba")
+		)
+		(pin "DC Output 1 (V1)" bidirectional
+			(at 55.245 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+			(uuid "e813cff4-f21e-42a1-b5db-9314c8a6c968")
+		)
+		(pin "AI2+{slash}OSC12(1+)" bidirectional
+			(at 55.245 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+			(uuid "16885fd6-edfe-4837-a2ea-74aee43ec54a")
+		)
+		(pin "AI1+{slash}OSC1 (1+)" bidirectional
+			(at 55.245 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+			(uuid "1c3d7920-a836-4928-80fd-b3a5a6968b05")
+		)
+		(pin "UART_RX{slash}PWM2 (P5)" bidirectional
+			(at 105.41 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+			(uuid "3d6548b2-c810-4899-966b-de2e1c5d50d0")
+		)
+		(pin "SPI_CS{slash}UART_RTS{slash}PWM1 (P4)" bidirectional
+			(at 105.41 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+			(uuid "694f42cf-5186-455b-9122-66c347164f73")
+		)
+		(pin "SPI_CLK{slash}UART_CTS (P3) " bidirectional
+			(at 105.41 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+			(uuid "e133554d-e9d6-4608-8f06-50c0878b3990")
+		)
+		(pin "SDI{slash}SDO{slash}UART_TX (P2) " bidirectional
+			(at 105.41 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+			(uuid "5e2bf640-2170-4ca6-80d1-2cd1a738708d")
+		)
+		(pin "SDI{slash}SDO (P1) " bidirectional
+			(at 105.41 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+			(uuid "29f36569-1b1a-4eef-af08-e2912052c4a0")
+		)
+		(pin "INT{slash}CLK2 (C2) " bidirectional
+			(at 105.41 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+			(uuid "cdb9cd24-ec88-4179-b13d-254885ccf652")
+		)
+		(pin "DO10 (10) " bidirectional
+			(at 105.41 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+			(uuid "9fbfcb6f-8393-4949-8e4d-d01de7a7337f")
+		)
+		(pin "DO9 (9) " bidirectional
+			(at 105.41 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+			(uuid "b4141b12-c725-4fac-b05f-4f51adf90f54")
+		)
+		(pin "Trigger Output (T0) " bidirectional
+			(at 105.41 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+			(uuid "c63485d1-890b-4a9e-b52b-44d390d85fe9")
+		)
+		(pin "INT{slash}CLK1 (C1) " bidirectional
+			(at 105.41 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+			(uuid "5e2cf9ba-d370-4687-b95c-19d6d341f209")
+		)
+		(pin "DC Output 2 (V2) " bidirectional
+			(at 105.41 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+			(uuid "ab18c9ca-6199-4901-8807-e0b602fc2a78")
+		)
+		(pin "GND{slash}AI2" bidirectional
+			(at 105.41 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+			(uuid "d211c40a-7165-45ee-a420-72d71a5c3240")
+		)
+		(pin "GND{slash}AI1" bidirectional
+			(at 105.41 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+			(uuid "10c66723-06bf-41b9-bbf3-94d4d36fafb7")
+		)
 	)
 	(sheet
-		(at 129.54 113.03)
-		(size 25.4 19.05)
+		(at 119.38 71.12)
+		(size 30.48 83.82)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -114,7 +348,7 @@
 		)
 		(uuid "bbdaf4c0-ccc0-41eb-9083-de174647bac8")
 		(property "Sheetname" "swicth"
-			(at 129.54 112.3184 0)
+			(at 119.38 70.4084 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -125,7 +359,7 @@
 			)
 		)
 		(property "Sheetfile" "switch.kicad_sch"
-			(at 129.54 132.6646 0)
+			(at 119.38 155.5846 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -717,6 +951,51 @@
 			(project "nfc_rpi"
 				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/05894123-5cc5-4ad3-b976-a2cb5434e1fc"
 					(page "3")
+				)
+			)
+		)
+		(pin "SCL_OLED_RPI" bidirectional
+			(at 251.46 55.53 0)
+			(uuid "a1b2c3d4-e5f6-7890-abcd-ef0123456789")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "SDA_OLED_RPI" bidirectional
+			(at 251.46 60.53 0)
+			(uuid "b2c3d4e5-f6a7-8901-bcde-f01234567890")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "BLK_OLED_RP2040" bidirectional
+			(at 251.46 65.53 0)
+			(uuid "c3d4e5f6-a7b8-9012-cdef-012345678901")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "DC_OLED_RP2040" bidirectional
+			(at 251.46 70.53 0)
+			(uuid "d4e5f6a7-b8c9-0123-defa-123456789012")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "RES_OLED_RP2040" bidirectional
+			(at 251.46 75.53 0)
+			(uuid "e5f6a7b8-c9d0-1234-efab-234567890123")
+			(effects
+				(font
+					(size 1.27 1.27)
 				)
 			)
 		)

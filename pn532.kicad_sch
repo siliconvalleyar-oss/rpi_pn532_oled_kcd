@@ -963,7 +963,7 @@
 	)
 	(hierarchical_label "P30_PN532"
 		(shape bidirectional)
-		(at 187.96 93.98 0)
+		(at 189.23 93.98 0)
 		(effects
 			(font
 				(size 1.27 1.27)

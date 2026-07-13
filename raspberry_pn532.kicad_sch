@@ -2094,62 +2094,62 @@
 		)
 	)
 	(junction
-		(at 96.52 153.67)
+		(at 144.78 142.24)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0be79d29-e81e-407e-b03c-4f7af9dc663d")
 	)
 	(junction
-		(at 99.06 153.67)
+		(at 147.32 142.24)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2879ac3e-0a21-45ef-b8b6-238cb1b8ad7c")
 	)
 	(junction
-		(at 101.6 153.67)
+		(at 149.86 142.24)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2b5baa67-542d-4d05-af80-69b08a68c921")
 	)
 	(junction
-		(at 111.76 153.67)
+		(at 160.02 142.24)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "304cae20-a825-45b9-b95f-e5b1c3632d2f")
 	)
 	(junction
-		(at 109.22 153.67)
+		(at 157.48 142.24)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "619007d4-79cb-4612-bfad-2bd49d89afdc")
 	)
 	(junction
-		(at 106.68 153.67)
+		(at 154.94 142.24)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8c895536-9830-46f9-93c6-e8e2d2541f06")
 	)
 	(junction
-		(at 104.14 153.67)
+		(at 152.4 142.24)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d585988c-34be-41a7-a2a6-91d3a38f65c7")
 	)
 	(junction
-		(at 128.27 139.7)
+		(at 176.53 128.27)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "dc979978-e026-4fe4-a4ae-89771f245e9e")
 	)
 	(junction
-		(at 114.3 153.67)
+		(at 162.56 142.24)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f5033ce0-012a-4c8e-be60-b562f54b7592")
 	)
 	(wire
 		(pts
-			(xy 82.55 137.16) (xy 82.55 153.67)
+			(xy 130.81 125.73) (xy 130.81 142.24)
 		)
 		(stroke
 			(width 0)
@@ -2159,7 +2159,7 @@
 	)
 	(wire
 		(pts
-			(xy 128.27 139.7) (xy 134.62 139.7)
+			(xy 176.53 128.27) (xy 182.88 128.27)
 		)
 		(stroke
 			(width 0)
@@ -2169,7 +2169,7 @@
 	)
 	(wire
 		(pts
-			(xy 99.06 153.67) (xy 101.6 153.67)
+			(xy 147.32 142.24) (xy 149.86 142.24)
 		)
 		(stroke
 			(width 0)
@@ -2179,7 +2179,17 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 153.67) (xy 99.06 153.67)
+			(xy 157.48 34.29) (xy 160.02 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "360d997d-c779-460e-9421-d5abb8048eb4")
+	)
+	(wire
+		(pts
+			(xy 144.78 142.24) (xy 147.32 142.24)
 		)
 		(stroke
 			(width 0)
@@ -2189,7 +2199,7 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 153.67) (xy 109.22 153.67)
+			(xy 154.94 142.24) (xy 157.48 142.24)
 		)
 		(stroke
 			(width 0)
@@ -2199,7 +2209,17 @@
 	)
 	(wire
 		(pts
-			(xy 101.6 153.67) (xy 104.14 153.67)
+			(xy 156.21 29.21) (xy 152.4 29.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4ffc9845-f54c-44f4-823d-95d3b615408b")
+	)
+	(wire
+		(pts
+			(xy 149.86 142.24) (xy 152.4 142.24)
 		)
 		(stroke
 			(width 0)
@@ -2209,7 +2229,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 153.67) (xy 111.76 153.67)
+			(xy 157.48 142.24) (xy 160.02 142.24)
 		)
 		(stroke
 			(width 0)
@@ -2219,7 +2239,7 @@
 	)
 	(wire
 		(pts
-			(xy 104.14 153.67) (xy 106.68 153.67)
+			(xy 152.4 142.24) (xy 154.94 142.24)
 		)
 		(stroke
 			(width 0)
@@ -2229,7 +2249,7 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 139.7) (xy 134.62 153.67)
+			(xy 182.88 128.27) (xy 182.88 142.24)
 		)
 		(stroke
 			(width 0)
@@ -2239,7 +2259,27 @@
 	)
 	(wire
 		(pts
-			(xy 114.3 153.67) (xy 134.62 153.67)
+			(xy 156.21 27.94) (xy 156.21 29.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "89c71b3b-c0e2-4157-b732-d86bd1a65d50")
+	)
+	(wire
+		(pts
+			(xy 152.4 29.21) (xy 152.4 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8e286bda-e9a5-49e3-840f-6659e6babfab")
+	)
+	(wire
+		(pts
+			(xy 162.56 142.24) (xy 182.88 142.24)
 		)
 		(stroke
 			(width 0)
@@ -2249,7 +2289,7 @@
 	)
 	(wire
 		(pts
-			(xy 101.6 35.56) (xy 119.38 35.56)
+			(xy 149.86 24.13) (xy 167.64 24.13)
 		)
 		(stroke
 			(width 0)
@@ -2259,7 +2299,7 @@
 	)
 	(wire
 		(pts
-			(xy 111.76 153.67) (xy 114.3 153.67)
+			(xy 160.02 142.24) (xy 162.56 142.24)
 		)
 		(stroke
 			(width 0)
@@ -2269,7 +2309,7 @@
 	)
 	(wire
 		(pts
-			(xy 127 137.16) (xy 128.27 137.16)
+			(xy 175.26 125.73) (xy 176.53 125.73)
 		)
 		(stroke
 			(width 0)
@@ -2279,7 +2319,7 @@
 	)
 	(wire
 		(pts
-			(xy 127 139.7) (xy 128.27 139.7)
+			(xy 175.26 128.27) (xy 176.53 128.27)
 		)
 		(stroke
 			(width 0)
@@ -2289,7 +2329,7 @@
 	)
 	(wire
 		(pts
-			(xy 86.36 137.16) (xy 82.55 137.16)
+			(xy 134.62 125.73) (xy 130.81 125.73)
 		)
 		(stroke
 			(width 0)
@@ -2299,7 +2339,7 @@
 	)
 	(wire
 		(pts
-			(xy 82.55 153.67) (xy 96.52 153.67)
+			(xy 130.81 142.24) (xy 144.78 142.24)
 		)
 		(stroke
 			(width 0)
@@ -2309,7 +2349,7 @@
 	)
 	(wire
 		(pts
-			(xy 101.6 45.72) (xy 101.6 35.56)
+			(xy 149.86 34.29) (xy 149.86 24.13)
 		)
 		(stroke
 			(width 0)
@@ -2319,7 +2359,7 @@
 	)
 	(wire
 		(pts
-			(xy 128.27 137.16) (xy 128.27 139.7)
+			(xy 176.53 125.73) (xy 176.53 128.27)
 		)
 		(stroke
 			(width 0)
@@ -2329,17 +2369,18 @@
 	)
 	(hierarchical_label "GPIO4"
 		(shape bidirectional)
-		(at 104.14 45.72 90)
+		(at 156.21 27.94 90)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
+			(justify left)
 		)
 		(uuid "01dcf319-8855-4035-be7e-f9bca09ee620")
 	)
 	(hierarchical_label "CORE"
 		(shape bidirectional)
-		(at 127 129.54 0)
+		(at 175.26 113.03 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2350,7 +2391,7 @@
 	)
 	(hierarchical_label "MOSI0/GPIO10"
 		(shape bidirectional)
-		(at 127 88.9 0)
+		(at 175.26 77.47 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2361,7 +2402,7 @@
 	)
 	(hierarchical_label "SD_DAT3"
 		(shape bidirectional)
-		(at 86.36 111.76 180)
+		(at 134.62 100.33 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2372,7 +2413,7 @@
 	)
 	(hierarchical_label "GPIO27"
 		(shape bidirectional)
-		(at 86.36 96.52 180)
+		(at 134.62 85.09 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2383,7 +2424,7 @@
 	)
 	(hierarchical_label "SDA/GPIO2"
 		(shape bidirectional)
-		(at 127 63.5 0)
+		(at 175.26 52.07 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2394,7 +2435,7 @@
 	)
 	(hierarchical_label "MISO0/GPIO9"
 		(shape bidirectional)
-		(at 127 86.36 0)
+		(at 175.26 74.93 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2405,7 +2446,7 @@
 	)
 	(hierarchical_label "SD_CMD"
 		(shape bidirectional)
-		(at 86.36 109.22 180)
+		(at 134.62 97.79 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2416,7 +2457,7 @@
 	)
 	(hierarchical_label "GPIO23"
 		(shape bidirectional)
-		(at 86.36 86.36 180)
+		(at 134.62 74.93 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2427,7 +2468,7 @@
 	)
 	(hierarchical_label "RUN"
 		(shape bidirectional)
-		(at 127 121.92 0)
+		(at 175.26 110.49 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2438,7 +2479,7 @@
 	)
 	(hierarchical_label "GPIO22"
 		(shape bidirectional)
-		(at 86.36 83.82 180)
+		(at 134.62 72.39 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2449,7 +2490,7 @@
 	)
 	(hierarchical_label "GCLK1/GPIO5"
 		(shape bidirectional)
-		(at 127 73.66 0)
+		(at 175.26 62.23 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2460,7 +2501,7 @@
 	)
 	(hierarchical_label "GPIO26"
 		(shape bidirectional)
-		(at 86.36 93.98 180)
+		(at 134.62 82.55 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2471,7 +2512,7 @@
 	)
 	(hierarchical_label "GPIO19/MISO1"
 		(shape bidirectional)
-		(at 86.36 73.66 180)
+		(at 134.62 62.23 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2482,7 +2523,7 @@
 	)
 	(hierarchical_label "GPIO21/SCLK1"
 		(shape bidirectional)
-		(at 86.36 78.74 180)
+		(at 134.62 67.31 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2493,7 +2534,7 @@
 	)
 	(hierarchical_label "~{CE0}/GPIO8"
 		(shape bidirectional)
-		(at 127 83.82 0)
+		(at 175.26 72.39 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2504,7 +2545,7 @@
 	)
 	(hierarchical_label "1V8"
 		(shape bidirectional)
-		(at 86.36 142.24 180)
+		(at 134.62 130.81 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2515,7 +2556,7 @@
 	)
 	(hierarchical_label "GPIO14/TXD"
 		(shape bidirectional)
-		(at 86.36 55.88 180)
+		(at 134.62 44.45 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2526,7 +2567,7 @@
 	)
 	(hierarchical_label "GCLK2/GPIO6"
 		(shape bidirectional)
-		(at 127 76.2 0)
+		(at 175.26 64.77 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2537,7 +2578,7 @@
 	)
 	(hierarchical_label "SCL/GPIO3"
 		(shape bidirectional)
-		(at 127 66.04 0)
+		(at 175.26 54.61 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2548,7 +2589,7 @@
 	)
 	(hierarchical_label "SD_DAT1"
 		(shape bidirectional)
-		(at 86.36 101.6 180)
+		(at 134.62 90.17 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2559,7 +2600,7 @@
 	)
 	(hierarchical_label "TV"
 		(shape bidirectional)
-		(at 86.36 139.7 180)
+		(at 134.62 128.27 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2570,7 +2611,7 @@
 	)
 	(hierarchical_label "GPIO24"
 		(shape bidirectional)
-		(at 86.36 88.9 180)
+		(at 134.62 77.47 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2581,7 +2622,7 @@
 	)
 	(hierarchical_label "SD_"
 		(shape bidirectional)
-		(at 86.36 116.84 180)
+		(at 134.62 105.41 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2592,7 +2633,7 @@
 	)
 	(hierarchical_label "ID_SC/GPIO1"
 		(shape bidirectional)
-		(at 127 58.42 0)
+		(at 175.26 46.99 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2603,7 +2644,7 @@
 	)
 	(hierarchical_label "SD_DAT2"
 		(shape bidirectional)
-		(at 86.36 114.3 180)
+		(at 134.62 102.87 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2614,7 +2655,7 @@
 	)
 	(hierarchical_label "USB_DM"
 		(shape bidirectional)
-		(at 127 146.05 0)
+		(at 175.26 134.62 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2625,7 +2666,7 @@
 	)
 	(hierarchical_label "SD_CLK"
 		(shape bidirectional)
-		(at 86.36 106.68 180)
+		(at 134.62 95.25 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2636,7 +2677,7 @@
 	)
 	(hierarchical_label "SD__1"
 		(shape bidirectional)
-		(at 86.36 119.38 180)
+		(at 134.62 107.95 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2647,7 +2688,7 @@
 	)
 	(hierarchical_label "OTG"
 		(shape bidirectional)
-		(at 86.36 144.78 180)
+		(at 134.62 133.35 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2658,7 +2699,7 @@
 	)
 	(hierarchical_label "GPIO17"
 		(shape bidirectional)
-		(at 86.36 66.04 180)
+		(at 134.62 54.61 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2669,7 +2710,7 @@
 	)
 	(hierarchical_label "GCLK0/GPIO4"
 		(shape bidirectional)
-		(at 127 71.12 0)
+		(at 175.26 59.69 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2680,7 +2721,7 @@
 	)
 	(hierarchical_label "GPIO25"
 		(shape bidirectional)
-		(at 86.36 91.44 180)
+		(at 134.62 80.01 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2691,7 +2732,7 @@
 	)
 	(hierarchical_label "STATUS_LED"
 		(shape bidirectional)
-		(at 127 132.08 0)
+		(at 175.26 120.65 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2702,7 +2743,7 @@
 	)
 	(hierarchical_label "BT_ON"
 		(shape bidirectional)
-		(at 127 111.76 0)
+		(at 175.26 100.33 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2713,7 +2754,7 @@
 	)
 	(hierarchical_label "ID_SD/GPIO0"
 		(shape bidirectional)
-		(at 127 55.88 0)
+		(at 175.26 44.45 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2724,7 +2765,7 @@
 	)
 	(hierarchical_label "PWM1/GPIO13"
 		(shape bidirectional)
-		(at 127 99.06 0)
+		(at 175.26 87.63 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2735,7 +2776,7 @@
 	)
 	(hierarchical_label "PWM0/GPIO12"
 		(shape bidirectional)
-		(at 127 96.52 0)
+		(at 175.26 85.09 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2746,7 +2787,7 @@
 	)
 	(hierarchical_label "WL_ON"
 		(shape bidirectional)
-		(at 127 114.3 0)
+		(at 175.26 102.87 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2757,7 +2798,7 @@
 	)
 	(hierarchical_label "SD__2"
 		(shape bidirectional)
-		(at 86.36 121.92 180)
+		(at 134.62 110.49 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2768,7 +2809,7 @@
 	)
 	(hierarchical_label "SCLK0/GPIO11"
 		(shape bidirectional)
-		(at 127 91.44 0)
+		(at 175.26 80.01 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2779,7 +2820,7 @@
 	)
 	(hierarchical_label "SD_DAT0"
 		(shape bidirectional)
-		(at 86.36 104.14 180)
+		(at 134.62 92.71 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2790,7 +2831,7 @@
 	)
 	(hierarchical_label "GPIO18/PWM0"
 		(shape bidirectional)
-		(at 86.36 68.58 180)
+		(at 134.62 57.15 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2801,7 +2842,7 @@
 	)
 	(hierarchical_label "GPIO16"
 		(shape bidirectional)
-		(at 86.36 63.5 180)
+		(at 134.62 52.07 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2812,7 +2853,7 @@
 	)
 	(hierarchical_label "USB_DP"
 		(shape bidirectional)
-		(at 127 143.51 0)
+		(at 175.26 132.08 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2823,7 +2864,7 @@
 	)
 	(hierarchical_label "~{CE1}/GPIO7"
 		(shape bidirectional)
-		(at 127 81.28 0)
+		(at 175.26 69.85 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2834,7 +2875,7 @@
 	)
 	(hierarchical_label "GPIO20/MOSI1"
 		(shape bidirectional)
-		(at 86.36 76.2 180)
+		(at 134.62 64.77 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2845,7 +2886,7 @@
 	)
 	(hierarchical_label "GPIO15/RXD"
 		(shape bidirectional)
-		(at 86.36 58.42 180)
+		(at 134.62 46.99 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2856,7 +2897,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Raspberry_Pi_zero_2w")
-		(at 106.68 78.74 0)
+		(at 154.94 67.31 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2867,7 +2908,7 @@
 		(fields_autoplaced yes)
 		(uuid "28ed8ad1-6270-4491-8cc7-3346ea09142d")
 		(property "Reference" "J1"
-			(at 113.7159 43.18 0)
+			(at 161.9759 31.75 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2878,7 +2919,7 @@
 			)
 		)
 		(property "Value" "Raspberry_Pi_zero_2w"
-			(at 113.7159 45.72 0)
+			(at 161.9759 34.29 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2889,7 +2930,7 @@
 			)
 		)
 		(property "Footprint" "Module:Raspberry_Pi_Zero_Socketed_THT_FaceDown_MountingHoles"
-			(at 106.68 78.74 0)
+			(at 154.94 67.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2900,7 +2941,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.raspberrypi.org/documentation/hardware/raspberrypi/schematics/rpi_SCH_3bplus_1p0_reduced.pdf"
-			(at 106.68 78.74 0)
+			(at 154.94 67.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2911,7 +2952,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 106.68 78.74 0)
+			(at 154.94 67.31 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3147,7 +3188,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 119.38 35.56 0)
+		(at 167.64 24.13 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3158,7 +3199,7 @@
 		(fields_autoplaced yes)
 		(uuid "e1a2c424-4b8a-4bec-8518-58b67c437a6e")
 		(property "Reference" "#PWR03"
-			(at 119.38 39.37 0)
+			(at 167.64 27.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3169,7 +3210,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 119.38 30.48 0)
+			(at 167.64 19.05 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3179,7 +3220,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 119.38 35.56 0)
+			(at 167.64 24.13 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3190,7 +3231,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 119.38 35.56 0)
+			(at 167.64 24.13 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3201,7 +3242,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 119.38 35.56 0)
+			(at 167.64 24.13 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3224,7 +3265,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 96.52 153.67 0)
+		(at 144.78 142.24 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3235,7 +3276,7 @@
 		(fields_autoplaced yes)
 		(uuid "f3777a31-a0b8-4188-87a7-578e14345f7b")
 		(property "Reference" "#PWR01"
-			(at 96.52 160.02 0)
+			(at 144.78 148.59 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3246,7 +3287,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 96.52 158.75 0)
+			(at 144.78 147.32 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3256,7 +3297,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 96.52 153.67 0)
+			(at 144.78 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3267,7 +3308,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 96.52 153.67 0)
+			(at 144.78 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3278,7 +3319,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 96.52 153.67 0)
+			(at 144.78 142.24 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
