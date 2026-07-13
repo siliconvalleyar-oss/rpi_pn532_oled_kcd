@@ -235,7 +235,6 @@
 				)
 			)
 		)
-
 		(instances
 			(project "nfc_rpi"
 				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/05894123-5cc5-4ad3-b976-a2cb5434e1fc"
@@ -369,7 +368,6 @@
 			)
 		)
 	)
-
 		(pin "1V8" bidirectional
 		(at 119.38 72.34 180)
 		(uuid "53e817b7-51ea-42b9-9972-bfb67791c4f8")
@@ -478,7 +476,6 @@
 			)
 		)
 	)
-
 		(pin "ID_SD/GPIO0" bidirectional
 		(at 168.91 54.07 0)
 		(uuid "1fc5828a-d9d0-44e2-8934-5a6a50be5e41")
@@ -605,8 +602,6 @@
 			)
 		)
 	)
-
-
 		(pin "WL_ON" bidirectional
 		(at 168.91 75.89 0)
 		(uuid "26abfe72-2901-478e-868c-10481ca7fd46")
@@ -652,7 +647,6 @@
 			)
 		)
 	)
-
 		(pin "USB_DP" bidirectional
 		(at 168.91 86.81 0)
 		(uuid "9bd08c1b-9243-4b6f-98f4-ea5ae01cbc51")
@@ -671,7 +665,6 @@
 			)
 		)
 	)
-
 		(pin "GPIO4" bidirectional
 		(at 137.56 52.07 90)
 		(uuid "567b0b9f-0ed0-478f-8ddf-6abc063550a7")
@@ -681,7 +674,6 @@
 			)
 		)
 	)
-
 	)
 	(sheet
 		(at 210.82 49.53)
