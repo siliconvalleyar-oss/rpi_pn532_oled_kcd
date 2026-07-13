@@ -235,24 +235,7 @@
 				)
 			)
 		)
-		(pin "5V" bidirectional
-			(at 127 90.17 270)
-			(uuid "860dc127-7bab-4aa5-a0b8-a6def95351eb")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "GND" bidirectional
-			(at 119.38 52.07 90)
-			(uuid "f9a2133c-8f9f-4c82-9c9c-67b03dc5ad0c")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
+
 		(instances
 			(project "nfc_rpi"
 				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/05894123-5cc5-4ad3-b976-a2cb5434e1fc"
@@ -386,15 +369,7 @@
 			)
 		)
 	)
-		(pin "3V3" bidirectional
-		(at 119.38 71.12 180)
-		(uuid "0b5758be-61d2-4739-b0b5-449a2af1144e")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
+
 		(pin "1V8" bidirectional
 		(at 119.38 72.34 180)
 		(uuid "53e817b7-51ea-42b9-9972-bfb67791c4f8")
@@ -503,24 +478,7 @@
 			)
 		)
 	)
-		(pin "GND" bidirectional
-		(at 119.38 86.95 180)
-		(uuid "7e4b175c-f129-4d18-9655-d72727f756ca")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
-		(pin "GND" bidirectional
-		(at 119.38 88.17 180)
-		(uuid "1f21b76c-6a77-427b-9f04-8b4a7895f1b7")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
+
 		(pin "ID_SD/GPIO0" bidirectional
 		(at 168.91 54.07 0)
 		(uuid "1fc5828a-d9d0-44e2-8934-5a6a50be5e41")
@@ -647,19 +605,8 @@
 			)
 		)
 	)
-		(pin "+5" bidirectional
-		(at 168.91 73.17 0)
-		(uuid "ea52fa6b-30dd-477c-927e-c361bb9f92f0")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
-		(pin "+5_1" bidirectional
-		(at 168.91 74.53 0)
-		(uuid "c76b60bc-b589-41e3-853f-7d12c53cebaf")
-		(effects
+
+		(pin "		(effects
 			(font
 				(size 1.27 1.27)
 			)
@@ -710,33 +657,7 @@
 			)
 		)
 	)
-		(pin "+5" bidirectional
-		(at 168.91 82.71 0)
-		(uuid "8ff72abe-21bb-4058-8c9a-35200f6dbaf0")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
-		(pin "GND" bidirectional
-		(at 168.91 84.08 0)
-		(uuid "d7bd94e2-befb-43e0-a620-bc723220a90f")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
-		(pin "GND" bidirectional
-		(at 168.91 85.44 0)
-		(uuid "91ec0f5c-d65f-4daa-8c67-7fbb75dac6db")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
+
 		(pin "USB_DP" bidirectional
 		(at 168.91 86.81 0)
 		(uuid "9bd08c1b-9243-4b6f-98f4-ea5ae01cbc51")
@@ -755,15 +676,7 @@
 			)
 		)
 	)
-		(pin "5V" bidirectional
-		(at 124.38 52.07 90)
-		(uuid "33a8e46f-43f2-47a6-8fba-bbc7aa8d09bd")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
+
 		(pin "GPIO4" bidirectional
 		(at 137.56 52.07 90)
 		(uuid "567b0b9f-0ed0-478f-8ddf-6abc063550a7")
@@ -773,114 +686,7 @@
 			)
 		)
 	)
-		(pin "3V3" bidirectional
-		(at 150.73 52.07 90)
-		(uuid "e0cc1f6a-bced-43df-acfa-82712cda7bcd")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
-		(pin "3V3" bidirectional
-		(at 163.91 52.07 90)
-		(uuid "c8c746c5-d493-4be9-a722-b15f7f19fd02")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
-		(pin "GND" bidirectional
-		(at 124.38 90.17 270)
-		(uuid "76deaaa0-62b7-4664-85e2-147283ad58b8")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
-		(pin "GND" bidirectional
-		(at 128.77 90.17 270)
-		(uuid "b7333cd4-5796-42d3-a41a-3378af8055af")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
-		(pin "GND" bidirectional
-		(at 133.16 90.17 270)
-		(uuid "fe93010e-fef3-4550-9cec-6dca2e28b577")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
-		(pin "GND" bidirectional
-		(at 137.56 90.17 270)
-		(uuid "8a27f01c-69e6-4899-9f79-cfa5e3815edd")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
-		(pin "GND" bidirectional
-		(at 141.95 90.17 270)
-		(uuid "065cc6ff-b11d-4bc7-8fe8-881ee8273f64")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
-		(pin "GND" bidirectional
-		(at 146.34 90.17 270)
-		(uuid "e345584a-aa4d-4d49-a474-70c17c2974aa")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
-		(pin "GND" bidirectional
-		(at 150.73 90.17 270)
-		(uuid "2fca5445-ca70-4d44-b999-b24b34644553")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
-		(pin "GND" bidirectional
-		(at 155.13 90.17 270)
-		(uuid "360f115e-3d50-4733-9980-3c8c8bf86683")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
-		(pin "GND" bidirectional
-		(at 159.52 90.17 270)
-		(uuid "7ecaede9-3e2b-44f5-8906-77e6b9bd1ef5")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
-		(pin "+5V" bidirectional
-		(at 163.91 90.17 270)
-		(uuid "997715b7-9f93-425f-bf4e-32ef9dee9a21")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
+
 	)
 	(sheet
 		(at 210.82 49.53)
