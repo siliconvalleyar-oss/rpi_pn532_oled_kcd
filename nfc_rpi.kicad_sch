@@ -1,0 +1,106 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "49150dc2-d01c-4907-8daf-0ff812da3f6d")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 48.26 58.42)
+		(size 53.34 39.37)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "05894123-5cc5-4ad3-b976-a2cb5434e1fc")
+		(property "Sheetname" "nfc"
+			(at 48.26 57.7084 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "nfc.kicad_sch"
+			(at 48.26 98.3746 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "nfc_rpi"
+				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 186.69 63.5)
+		(size 54.61 39.37)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "5b319416-1454-47d5-9203-918948f63f25")
+		(property "Sheetname" "pn532"
+			(at 186.69 62.7884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pn532.kicad_sch"
+			(at 186.69 103.4546 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "nfc_rpi"
+				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

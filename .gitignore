@@ -1,0 +1,28 @@
+# KiCad backup and temp files
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.kicad_pro-bak
+*.kicad_prl
+fp-info-cache
+*.lck
+
+# ZIP files
+*.zip
+
+# Backup directories
+*-backups/
+
+# Temp files
+*.tmp
+*.bak
+*~
+
+# macOS
+.DS_Store
+
+# History
+.history/
+
+# Python
+__pycache__/
+*.pyc

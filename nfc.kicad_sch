@@ -1,0 +1,238 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "a457fa8f-3bf4-40ca-8a22-d3f1cde338c4")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 54.61 101.6)
+		(size 45.72 35.56)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "195d9f98-a83f-43b9-8312-c38d1e087b70")
+		(property "Sheetname" "pwr"
+			(at 54.61 100.8884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pwr.kicad_sch"
+			(at 54.61 137.7446 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "nfc_rpi"
+				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/05894123-5cc5-4ad3-b976-a2cb5434e1fc"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 55.245 47.625)
+		(size 50.165 40.005)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "93a7c070-cb0d-4079-a6d6-049c79d871c4")
+		(property "Sheetname" "AnalogDevice"
+			(at 55.245 46.9134 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "AnalogDevice.kicad_sch"
+			(at 55.245 88.2146 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "nfc_rpi"
+				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/05894123-5cc5-4ad3-b976-a2cb5434e1fc"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 129.54 113.03)
+		(size 25.4 19.05)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "bbdaf4c0-ccc0-41eb-9083-de174647bac8")
+		(property "Sheetname" "swicth"
+			(at 129.54 112.3184 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "switch.kicad_sch"
+			(at 129.54 132.6646 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "nfc_rpi"
+				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/05894123-5cc5-4ad3-b976-a2cb5434e1fc"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 119.38 52.07)
+		(size 49.53 38.1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "be750499-642b-480d-a705-2f2f5d51d73a")
+		(property "Sheetname" "raspberry_pn532"
+			(at 119.38 51.3584 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "raspberry_pn532.kicad_sch"
+			(at 119.38 90.7546 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "nfc_rpi"
+				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/05894123-5cc5-4ad3-b976-a2cb5434e1fc"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 210.82 49.53)
+		(size 40.64 30.48)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "e7408271-346a-4a7d-a5c2-b1a8b0208d47")
+		(property "Sheetname" "oled"
+			(at 210.82 48.8184 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "oled.kicad_sch"
+			(at 210.82 80.5946 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "nfc_rpi"
+				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/05894123-5cc5-4ad3-b976-a2cb5434e1fc"
+					(page "3")
+				)
+			)
+		)
+	)
+)
