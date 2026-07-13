@@ -661,7 +661,7 @@
         "uuid": "49150dc2-d01c-4907-8daf-0ff812da3f6d"
       }
     ],
-    "used_designators": "PN2,#PWR20-21",
+    "used_designators": "#PWR20-21,PN2",
     "variants": []
   },
   "sheets": [
@@ -679,7 +679,7 @@
     ],
     [
       "be750499-642b-480d-a705-2f2f5d51d73a",
-      "raspberry_pn532"
+      "raspberry (page 4)"
     ],
     [
       "195d9f98-a83f-43b9-8312-c38d1e087b70",

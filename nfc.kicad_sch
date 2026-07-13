@@ -159,7 +159,7 @@
 			(color 0 0 0 0)
 		)
 		(uuid "be750499-642b-480d-a705-2f2f5d51d73a")
-		(property "Sheetname" "raspberry_pn532"
+		(property "Sheetname" "raspberry (page 4)"
 			(at 119.38 51.3584 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -188,7 +188,160 @@
 				)
 			)
 		)
+	
+	(pin output line
+		(at 168.91 63.50 0)
+		(length 2.54)
+		(name "SDA"
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(number "SDA"
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(uuid "3d50aafd-d99a-4a74-8fce-7479350248c3")
 	)
+	(pin output line
+		(at 168.91 66.04 0)
+		(length 2.54)
+		(name "SCL"
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(number "SCL"
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(uuid "1399ba91-8b39-4afc-8d34-4b8ae8bfc9b6")
+	)
+	(pin output line
+		(at 168.91 73.66 0)
+		(length 2.54)
+		(name "GPIO5"
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(number "GPIO5"
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(uuid "95386e15-c126-40fb-b8f9-eea82c275922")
+	)
+	(pin output line
+		(at 168.91 76.20 0)
+		(length 2.54)
+		(name "GPIO6"
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(number "GPIO6"
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(uuid "de6fb6fd-b0b1-435e-868f-408df61b8812")
+	)
+	(pin output line
+		(at 168.91 86.36 0)
+		(length 2.54)
+		(name "MISO"
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(number "MISO"
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(uuid "e967b933-d74a-498b-852b-233ce38b29af")
+	)
+	(pin output line
+		(at 168.91 91.44 0)
+		(length 2.54)
+		(name "SCK"
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(number "SCK"
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(uuid "fe4c9533-5981-484e-aad8-7b564e10cf59")
+	)
+	(pin bidirectional line
+		(at 127.00 52.07 270)
+		(length 2.54)
+		(name "5V"
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(number "5V"
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(uuid "860dc127-7bab-4aa5-a0b8-a6def95351eb")
+	)
+	(pin bidirectional line
+		(at 101.60 90.17 90)
+		(length 2.54)
+		(name "GND"
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(number "GND"
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(uuid "f9a2133c-8f9f-4c82-9c9c-67b03dc5ad0c")
+	)
+)
 	(sheet
 		(at 210.82 49.53)
 		(size 40.64 30.48)
