@@ -838,7 +838,7 @@
 		(at 147.32 110.49)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "662b060e-7303-4673-bf11-9aa776c1e58e")
+		(uuid "81c07366-cdfe-451e-b6cd-9e1965664de9")
 	)
 	(junction
 		(at 162.56 63.5)
@@ -906,7 +906,183 @@
 		)
 		(uuid "f0e3d220-961b-42bc-b780-18f8556203c0")
 	)
-		(symbol
+	(hierarchical_label "SSCK_PN532"
+		(shape bidirectional)
+		(at 189.23 86.36 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "04578b0a-58a4-4cf0-a61a-7c9e2cb40d35")
+	)
+	(hierarchical_label "INT0_PN532"
+		(shape bidirectional)
+		(at 189.23 91.44 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "26d49695-7bf6-439c-99c6-ca6ef0401452")
+	)
+	(hierarchical_label "SVDD_PN532"
+		(shape bidirectional)
+		(at 189.23 78.74 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "329323af-2ca9-4f65-a448-cf87112cc55a")
+	)
+	(hierarchical_label "NSS/SCL/RX_PN532"
+		(shape bidirectional)
+		(at 137.16 90.17 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "454aad80-95f1-438f-8cf5-6afed574df1c")
+	)
+	(hierarchical_label "IRO_PN532"
+		(shape bidirectional)
+		(at 137.16 92.71 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "4554f613-4e3b-4431-8d40-535a257e7ef1")
+	)
+	(hierarchical_label "P30_PN532"
+		(shape bidirectional)
+		(at 187.96 93.98 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "5e5ef41d-7df0-42e0-ab81-e4c945656170")
+	)
+	(hierarchical_label "M_PN532"
+		(shape bidirectional)
+		(at 137.16 85.09 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "64d2da91-d6da-419f-ad51-4428f4393d24")
+	)
+	(hierarchical_label "P31_PN532"
+		(shape bidirectional)
+		(at 189.23 96.52 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "718c1a78-48a3-4edb-b004-22f2418f7b4b")
+	)
+	(hierarchical_label "SINOUT_PN532"
+		(shape bidirectional)
+		(at 189.23 83.82 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "7d54e8a8-86cd-4624-9d18-f49d1889fff4")
+	)
+	(hierarchical_label "P35_PN532"
+		(shape bidirectional)
+		(at 189.23 99.06 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "83e8fdca-bf13-4ce0-a31a-a8139f29d8e8")
+	)
+	(hierarchical_label "MO/SDA/TX_PN532"
+		(shape bidirectional)
+		(at 137.16 87.63 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "986c2610-9629-4d6e-aecb-09f5ddee93c2")
+	)
+	(hierarchical_label "SCK_PN532"
+		(shape bidirectional)
+		(at 137.16 82.55 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "ac25c13c-1dbd-43c1-8f0e-7e19ab7e2b76")
+	)
+	(hierarchical_label "rst_out_PN532"
+		(shape bidirectional)
+		(at 189.23 101.6 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b9a284e0-be59-40fc-b4e3-41eb59a27427")
+	)
+	(hierarchical_label "SIGIN_PN532"
+		(shape bidirectional)
+		(at 189.23 81.28 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "cc5e8251-3f46-48af-ba08-da75bb58266a")
+	)
+	(hierarchical_label "RST_PN532"
+		(shape bidirectional)
+		(at 137.16 95.25 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "f3099d38-df73-4e56-9295-564bd6b7f890")
+	)
+	(hierarchical_label "INT_PN532"
+		(shape bidirectional)
+		(at 189.23 88.9 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "fda12c6d-415f-47c1-a60f-1c2db5244ebb")
+	)
+	(symbol
 		(lib_id "power:+5V")
 		(at 162.56 63.5 0)
 		(unit 1)
@@ -993,10 +1169,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "31c4570b-f7a1-4bcd-bf3b-697dca9f70e6")
 		(property "Reference" "PN2"
-			(at 183.2611 67.31 0)
+			(at 156.718 69.85 0)
 			(show_name yes)
 			(do_not_autoplace no)
 			(effects
@@ -1007,7 +1182,7 @@
 			)
 		)
 		(property "Value" "PN532"
-			(at 183.2611 69.85 0)
+			(at 159.258 66.548 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1194,241 +1369,5 @@
 				)
 			)
 		)
-	)
-	(hierarchical_label "+5V_PN532"
-		(shape bidirectional)
-		(at 140.97 72.39 270)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "73d68169-a04a-42c7-b0f7-6a8b8210902a")
-	)
-	(hierarchical_label "5V_PN532"
-		(shape bidirectional)
-		(at 146.05 76.20 90)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "74ba6b3b-f66a-4b8a-959e-61c99347e9e7")
-	)
-	(hierarchical_label "GND_PN532"
-		(shape bidirectional)
-		(at 147.32 34.29 270)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "8206522f-eca8-4eaf-8dff-c2dacfa4f87e")
-	)
-	(hierarchical_label "GND_1_PN532"
-		(shape bidirectional)
-		(at 160.02 34.29 270)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "5df68d39-e3d8-4749-b59c-af6f84eeceb2")
-	)
-	(hierarchical_label "GND_2_PN532"
-		(shape bidirectional)
-		(at 140.97 72.39 90)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "7c0f25cb-c1df-4efb-acaa-9cbd64dacb79")
-	)
-	(hierarchical_label "INT_PN532"
-		(shape bidirectional)
-		(at 189.23 55.88 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "fda12c6d-415f-47c1-a60f-1c2db5244ebb")
-	)
-	(hierarchical_label "INT0_PN532"
-		(shape bidirectional)
-		(at 189.23 53.34 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "26d49695-7bf6-439c-99c6-ca6ef0401452")
-	)
-	(hierarchical_label "IRO_PN532"
-		(shape bidirectional)
-		(at 137.16 52.07 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "4554f613-4e3b-4431-8d40-535a257e7ef1")
-	)
-	(hierarchical_label "M_PN532"
-		(shape bidirectional)
-		(at 137.16 59.69 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "64d2da91-d6da-419f-ad51-4428f4393d24")
-	)
-	(hierarchical_label "MO/SDA/TX_PN532"
-		(shape bidirectional)
-		(at 137.16 57.15 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "986c2610-9629-4d6e-aecb-09f5ddee93c2")
-	)
-	(hierarchical_label "NSS/SCL/RX_PN532"
-		(shape bidirectional)
-		(at 137.16 54.61 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "454aad80-95f1-438f-8cf5-6afed574df1c")
-	)
-	(hierarchical_label "P30_PN532"
-		(shape bidirectional)
-		(at 189.23 50.80 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "5e5ef41d-7df0-42e0-ab81-e4c945656170")
-	)
-	(hierarchical_label "P31_PN532"
-		(shape bidirectional)
-		(at 189.23 48.26 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "718c1a78-48a3-4edb-b004-22f2418f7b4b")
-	)
-	(hierarchical_label "P35_PN532"
-		(shape bidirectional)
-		(at 189.23 45.72 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "83e8fdca-bf13-4ce0-a31a-a8139f29d8e8")
-	)
-	(hierarchical_label "RST_PN532"
-		(shape bidirectional)
-		(at 137.16 49.53 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "f3099d38-df73-4e56-9295-564bd6b7f890")
-	)
-	(hierarchical_label "SCK_PN532"
-		(shape bidirectional)
-		(at 137.16 62.23 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "ac25c13c-1dbd-43c1-8f0e-7e19ab7e2b76")
-	)
-	(hierarchical_label "SIGIN_PN532"
-		(shape bidirectional)
-		(at 189.23 63.50 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "cc5e8251-3f46-48af-ba08-da75bb58266a")
-	)
-	(hierarchical_label "SINOUT_PN532"
-		(shape bidirectional)
-		(at 189.23 60.96 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "7d54e8a8-86cd-4624-9d18-f49d1889fff4")
-	)
-	(hierarchical_label "SSCK_PN532"
-		(shape bidirectional)
-		(at 189.23 58.42 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "04578b0a-58a4-4cf0-a61a-7c9e2cb40d35")
-	)
-	(hierarchical_label "SVDD_PN532"
-		(shape bidirectional)
-		(at 189.23 66.04 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "329323af-2ca9-4f65-a448-cf87112cc55a")
-	)
-	(hierarchical_label "VDD5V_PN532"
-		(shape bidirectional)
-		(at 181.61 76.20 90)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "da0ef4ee-205f-40a1-abc5-ce5b2c2bc67a")
-	)
-	(hierarchical_label "rst_out_PN532"
-		(shape bidirectional)
-		(at 189.23 43.18 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "b9a284e0-be59-40fc-b4e3-41eb59a27427")
 	)
 )
