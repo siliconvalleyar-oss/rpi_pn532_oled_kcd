@@ -250,7 +250,7 @@
 			)
 		)
 		(pin "DC Output 1 (V1)" bidirectional
-			(at 74.93 128.27 0)
+			(at 74.93 135.89 0)
 			(uuid "85b3c089-61b9-4458-92d4-a8f6eff4a608")
 			(effects
 				(font
@@ -260,7 +260,7 @@
 			)
 		)
 		(pin "DC Output 2 (V2) " bidirectional
-			(at 74.93 140.97 0)
+			(at 74.93 138.43 0)
 			(uuid "41237096-74b5-410a-8002-d4cc3e4d075b")
 			(effects
 				(font
@@ -1228,7 +1228,7 @@
 			)
 		)
 		(pin "GPIO4" bidirectional
-			(at 158.11 29.21 90)
+			(at 198.11 39.37 0)
 			(uuid "283b1b69-3de3-4535-82cb-e3acfc7fc015")
 			(effects
 				(font
