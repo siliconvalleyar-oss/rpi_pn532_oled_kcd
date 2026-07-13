@@ -190,7 +190,6 @@
 		)
 	(pin "SDA" bidirectional
 		(at 168.91 63.50 0)
-		(length 2.54)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -200,7 +199,6 @@
 	)
 	(pin "SCL" bidirectional
 		(at 168.91 66.04 0)
-		(length 2.54)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -210,7 +208,6 @@
 	)
 	(pin "GPIO5" bidirectional
 		(at 168.91 73.66 0)
-		(length 2.54)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -220,7 +217,6 @@
 	)
 	(pin "GPIO6" bidirectional
 		(at 168.91 76.20 0)
-		(length 2.54)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -230,7 +226,6 @@
 	)
 	(pin "MISO" bidirectional
 		(at 168.91 86.36 0)
-		(length 2.54)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -240,7 +235,6 @@
 	)
 	(pin "SCK" bidirectional
 		(at 168.91 91.44 0)
-		(length 2.54)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -250,7 +244,6 @@
 	)
 	(pin "5V" bidirectional
 		(at 127.00 52.07 270)
-		(length 2.54)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -260,7 +253,6 @@
 	)
 	(pin "GND" bidirectional
 		(at 101.60 90.17 90)
-		(length 2.54)
 		(effects
 			(font
 				(size 1.27 1.27)
