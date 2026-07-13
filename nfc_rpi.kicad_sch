@@ -102,8 +102,8 @@
 		)
 	)
 	(sheet
-		(at 24.765 95.25)
-		(size 50.165 77.47)
+		(at 24.765 87.63)
+		(size 50.165 85.09)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -118,7 +118,7 @@
 		)
 		(uuid "258c013b-d18b-42df-94f2-9057b2271b6c")
 		(property "Sheetname" "DiscoveryAnalog3"
-			(at 24.765 94.5384 0)
+			(at 24.765 86.9184 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -140,7 +140,7 @@
 			)
 		)
 		(pin "AI1+{slash}OSC1 (1+)" bidirectional
-			(at 74.93 99.06 0)
+			(at 74.93 91.44 0)
 			(uuid "09a8b0de-8a2d-4bb2-b03d-43bc788ba96c")
 			(effects
 				(font
@@ -150,7 +150,7 @@
 			)
 		)
 		(pin "AI2+{slash}OSC12(1+)" bidirectional
-			(at 74.93 101.6 0)
+			(at 74.93 93.98 0)
 			(uuid "762f55f1-4122-4e4b-b467-77effc13411d")
 			(effects
 				(font
@@ -160,7 +160,7 @@
 			)
 		)
 		(pin "AWG1 (W1)" bidirectional
-			(at 74.93 104.14 0)
+			(at 74.93 96.52 0)
 			(uuid "5784ccd6-a6e1-45d7-9ab6-5cead4a0e219")
 			(effects
 				(font
@@ -170,7 +170,7 @@
 			)
 		)
 		(pin "D1" bidirectional
-			(at 74.93 106.68 0)
+			(at 74.93 101.6 0)
 			(uuid "82f1148a-e0e9-4929-88c7-4695b953e492")
 			(effects
 				(font
@@ -180,7 +180,7 @@
 			)
 		)
 		(pin "D2" bidirectional
-			(at 74.93 109.22 0)
+			(at 74.93 104.14 0)
 			(uuid "ad513fbf-3dcc-40a0-9a96-1a76c009d348")
 			(effects
 				(font
@@ -190,7 +190,7 @@
 			)
 		)
 		(pin "D3" bidirectional
-			(at 74.93 111.76 0)
+			(at 74.93 106.68 0)
 			(uuid "79980d07-cc54-4d84-a396-06f77cd064bc")
 			(effects
 				(font
@@ -200,7 +200,7 @@
 			)
 		)
 		(pin "D4" bidirectional
-			(at 74.93 114.3 0)
+			(at 74.93 109.22 0)
 			(uuid "0ac4b3fc-c732-4500-85b1-24bf8e4b2fa7")
 			(effects
 				(font
@@ -210,7 +210,7 @@
 			)
 		)
 		(pin "D5" bidirectional
-			(at 74.93 116.84 0)
+			(at 74.93 111.76 0)
 			(uuid "65ba3e94-b20e-466d-83ff-84eafa540088")
 			(effects
 				(font
@@ -220,7 +220,7 @@
 			)
 		)
 		(pin "D6" bidirectional
-			(at 74.93 120.65 0)
+			(at 74.93 114.3 0)
 			(uuid "68d3aa62-7cf0-4af4-8e64-21a37fbadd0b")
 			(effects
 				(font
@@ -230,7 +230,7 @@
 			)
 		)
 		(pin "D7" bidirectional
-			(at 74.93 123.19 0)
+			(at 74.93 116.84 0)
 			(uuid "45e4f85d-9a15-4765-b901-9c6b8d62e3bd")
 			(effects
 				(font
@@ -240,7 +240,7 @@
 			)
 		)
 		(pin "D8" bidirectional
-			(at 74.93 125.73 0)
+			(at 74.93 119.38 0)
 			(uuid "4fa9d803-33be-40e5-bb23-4e59c5c979ef")
 			(effects
 				(font
@@ -270,7 +270,7 @@
 			)
 		)
 		(pin "DO9 (9) " bidirectional
-			(at 74.93 138.43 0)
+			(at 74.93 121.92 0)
 			(uuid "274a148e-e963-4366-a4cf-fcae06510b2d")
 			(effects
 				(font
@@ -280,7 +280,7 @@
 			)
 		)
 		(pin "DO10 (10) " bidirectional
-			(at 74.93 135.89 0)
+			(at 74.93 124.46 0)
 			(uuid "2ff85537-5f94-4f9e-bcbe-fcd5e4922171")
 			(effects
 				(font
