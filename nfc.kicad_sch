@@ -606,12 +606,7 @@
 		)
 	)
 
-		(pin "		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
+
 		(pin "WL_ON" bidirectional
 		(at 168.91 75.89 0)
 		(uuid "26abfe72-2901-478e-868c-10481ca7fd46")
