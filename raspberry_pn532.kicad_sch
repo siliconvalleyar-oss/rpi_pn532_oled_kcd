@@ -2159,16 +2159,6 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 86.36) (xy 127 86.36)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "04c2f159-6aca-43ed-8726-34dbad003f6c")
-	)
-	(wire
-		(pts
 			(xy 128.27 139.7) (xy 134.62 139.7)
 		)
 		(stroke
@@ -2196,16 +2186,6 @@
 			(type default)
 		)
 		(uuid "3b28d72b-9e57-415f-b3b8-43ea72a7dadd")
-	)
-	(wire
-		(pts
-			(xy 139.7 80.01) (xy 139.7 91.44)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "48be1140-65f4-4bd5-9a25-f545d7a11963")
 	)
 	(wire
 		(pts
@@ -2269,16 +2249,6 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 91.44) (xy 127 91.44)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b0aeb9f3-6e77-4831-a9f8-140f710bb351")
-	)
-	(wire
-		(pts
 			(xy 101.6 35.56) (xy 119.38 35.56)
 		)
 		(stroke
@@ -2306,16 +2276,6 @@
 			(type default)
 		)
 		(uuid "cb3e7e7a-49d1-4138-baea-35117093cf37")
-	)
-	(wire
-		(pts
-			(xy 137.16 82.55) (xy 137.16 86.36)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d780c18b-58e4-4345-b69c-95a1c03bfbb5")
 	)
 	(wire
 		(pts
@@ -2520,7 +2480,7 @@
 		)
 		(uuid "3cdc51e4-f2eb-4ad3-834d-c7706a010638")
 	)
-		(hierarchical_label "GPIO21/SCLK1"
+	(hierarchical_label "GPIO21/SCLK1"
 		(shape bidirectional)
 		(at 86.36 78.74 180)
 		(effects
@@ -2608,7 +2568,7 @@
 		)
 		(uuid "5e9e7fba-a632-412e-bb96-b0f826ed07c7")
 	)
-		(hierarchical_label "GPIO24"
+	(hierarchical_label "GPIO24"
 		(shape bidirectional)
 		(at 86.36 88.9 180)
 		(effects
@@ -2619,7 +2579,7 @@
 		)
 		(uuid "658484b1-d2d6-47bc-847a-c88b514ab413")
 	)
-		(hierarchical_label "SD_"
+	(hierarchical_label "SD_"
 		(shape bidirectional)
 		(at 86.36 116.84 180)
 		(effects
@@ -2652,7 +2612,7 @@
 		)
 		(uuid "776f4cc9-e84c-4753-8921-0daa0a665018")
 	)
-		(hierarchical_label "USB_DM"
+	(hierarchical_label "USB_DM"
 		(shape bidirectional)
 		(at 127 146.05 0)
 		(effects
@@ -2707,7 +2667,7 @@
 		)
 		(uuid "92457c07-7d45-4aea-9e77-0d0996ac6893")
 	)
-		(hierarchical_label "GCLK0/GPIO4"
+	(hierarchical_label "GCLK0/GPIO4"
 		(shape bidirectional)
 		(at 127 71.12 0)
 		(effects
@@ -2729,7 +2689,7 @@
 		)
 		(uuid "98de31f8-a0f0-424e-84be-f65de0e1219e")
 	)
-		(hierarchical_label "STATUS_LED"
+	(hierarchical_label "STATUS_LED"
 		(shape bidirectional)
 		(at 127 132.08 0)
 		(effects
@@ -2740,7 +2700,7 @@
 		)
 		(uuid "a5b5d3d1-4561-408e-a3da-c7abebf0cd01")
 	)
-			(hierarchical_label "BT_ON"
+	(hierarchical_label "BT_ON"
 		(shape bidirectional)
 		(at 127 111.76 0)
 		(effects
@@ -2751,7 +2711,7 @@
 		)
 		(uuid "b424e62b-e99a-4d64-9595-9b2a240fda69")
 	)
-		(hierarchical_label "ID_SD/GPIO0"
+	(hierarchical_label "ID_SD/GPIO0"
 		(shape bidirectional)
 		(at 127 55.88 0)
 		(effects
@@ -2784,7 +2744,7 @@
 		)
 		(uuid "dd54dbe8-bb74-4ac3-b02c-d7827c906015")
 	)
-		(hierarchical_label "WL_ON"
+	(hierarchical_label "WL_ON"
 		(shape bidirectional)
 		(at 127 114.3 0)
 		(effects
@@ -2850,7 +2810,7 @@
 		)
 		(uuid "f4ecbe24-630f-42c5-a9a3-4796e5819f89")
 	)
-		(hierarchical_label "USB_DP"
+	(hierarchical_label "USB_DP"
 		(shape bidirectional)
 		(at 127 143.51 0)
 		(effects
@@ -2894,7 +2854,7 @@
 		)
 		(uuid "fee07ce4-7a44-4a92-88c9-f47bb3cd1470")
 	)
-		(symbol
+	(symbol
 		(lib_id "Connector:Raspberry_Pi_zero_2w")
 		(at 106.68 78.74 0)
 		(unit 1)
