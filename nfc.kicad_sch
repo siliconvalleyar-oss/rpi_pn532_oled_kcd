@@ -260,7 +260,7 @@
 				)
 			)
 		)
-	(pin bidirectional line
+	(pin bidirectional
 		(at 119.38 54.07 180)
 		(length 2.54)
 		(name "GPIO14/TXD"
@@ -272,7 +272,7 @@
 		)
 		(uuid "d5aad726-e75c-4ae9-a83c-be931587a9d6")
 	)
-	(pin bidirectional line
+	(pin bidirectional
 		(at 119.38 55.29 180)
 		(length 2.54)
 		(name "GPIO15/RXD"
@@ -284,7 +284,7 @@
 		)
 		(uuid "2cfbf339-072c-4d43-9c82-2004e62968e5")
 	)
-	(pin bidirectional line
+	(pin bidirectional
 		(at 119.38 56.51 180)
 		(length 2.54)
 		(name "GPIO16"
@@ -296,7 +296,7 @@
 		)
 		(uuid "0cbea79d-6cbe-413b-b695-33292866ee4d")
 	)
-	(pin bidirectional line
+	(pin bidirectional
 		(at 119.38 57.72 180)
 		(length 2.54)
 		(name "GPIO17"
@@ -308,7 +308,7 @@
 		)
 		(uuid "5eacde9b-5be8-4e24-b76a-2db89472255f")
 	)
-	(pin bidirectional line
+	(pin bidirectional
 		(at 119.38 58.94 180)
 		(length 2.54)
 		(name "GPIO18/PWM0"
@@ -320,7 +320,7 @@
 		)
 		(uuid "2f4acc99-fea4-45db-a982-4374241a309b")
 	)
-	(pin bidirectional line
+	(pin bidirectional
 		(at 119.38 60.16 180)
 		(length 2.54)
 		(name "GPIO19/MISO1"
@@ -332,7 +332,7 @@
 		)
 		(uuid "2b76a7c4-45d0-4d9e-9031-b99b7332a8d4")
 	)
-	(pin bidirectional line
+	(pin bidirectional
 		(at 119.38 61.38 180)
 		(length 2.54)
 		(name "GPIO20/MOSI1"
@@ -344,7 +344,7 @@
 		)
 		(uuid "259a87b0-e0df-429d-ae24-57859128c1f6")
 	)
-	(pin bidirectional line
+	(pin bidirectional
 		(at 119.38 62.59 180)
 		(length 2.54)
 		(name "GPIO21/SCLK1"
@@ -356,7 +356,7 @@
 		)
 		(uuid "00ceba3b-3a0c-4651-99eb-a30a60fd38d9")
 	)
-	(pin bidirectional line
+	(pin bidirectional
 		(at 119.38 63.81 180)
 		(length 2.54)
 		(name "GPIO22"
@@ -368,7 +368,7 @@
 		)
 		(uuid "5f6ccf5c-e582-4620-bdf5-15a067724f47")
 	)
-	(pin bidirectional line
+	(pin bidirectional
 		(at 119.38 65.03 180)
 		(length 2.54)
 		(name "GPIO23"
@@ -380,7 +380,7 @@
 		)
 		(uuid "8999d29c-9e29-4f68-8a16-448c39d0a630")
 	)
-	(pin bidirectional line
+	(pin bidirectional
 		(at 119.38 66.25 180)
 		(length 2.54)
 		(name "GPIO24"
@@ -392,7 +392,7 @@
 		)
 		(uuid "31c50f12-4a33-4e90-b2bd-d62e8fc411d9")
 	)
-	(pin bidirectional line
+	(pin bidirectional
 		(at 119.38 67.47 180)
 		(length 2.54)
 		(name "GPIO25"
@@ -404,7 +404,7 @@
 		)
 		(uuid "d3e1220a-d630-4a0e-9a8b-ed54fcb5e52d")
 	)
-	(pin bidirectional line
+	(pin bidirectional
 		(at 119.38 68.68 180)
 		(length 2.54)
 		(name "GPIO26"
@@ -416,7 +416,7 @@
 		)
 		(uuid "c97a04dc-d84b-4510-bc6e-bf8c596a7cf1")
 	)
-	(pin bidirectional line
+	(pin bidirectional
 		(at 119.38 69.90 180)
 		(length 2.54)
 		(name "GPIO27"
@@ -428,7 +428,7 @@
 		)
 		(uuid "7c1e82f3-6fa9-4024-9a52-2452c1f33138")
 	)
-	(pin bidirectional line
+	(pin bidirectional
 		(at 119.38 71.12 180)
 		(length 2.54)
 		(name "3V3"
@@ -440,7 +440,7 @@
 		)
 		(uuid "0b5758be-61d2-4739-b0b5-449a2af1144e")
 	)
-	(pin bidirectional line
+	(pin bidirectional
 		(at 119.38 72.34 180)
 		(length 2.54)
 		(name "1V8"
@@ -452,7 +452,7 @@
 		)
 		(uuid "53e817b7-51ea-42b9-9972-bfb67791c4f8")
 	)
-	(pin bidirectional line
+	(pin bidirectional
 		(at 119.38 73.56 180)
 		(length 2.54)
 		(name "OTG"
@@ -464,7 +464,7 @@
 		)
 		(uuid "e4902d63-aa05-4a33-ab32-3da7ffb8b328")
 	)
-	(pin bidirectional line
+	(pin bidirectional
 		(at 119.38 74.77 180)
 		(length 2.54)
 		(name "TV"
@@ -476,7 +476,7 @@
 		)
 		(uuid "3e178378-a78f-48a6-8836-f6bad0ee9c22")
 	)
-	(pin bidirectional line
+	(pin bidirectional
 		(at 119.38 75.99 180)
 		(length 2.54)
 		(name "SD_DAT1"
@@ -488,7 +488,7 @@
 		)
 		(uuid "87490800-50b6-442e-8034-6b4ada108358")
 	)
-	(pin bidirectional line
+	(pin bidirectional
 		(at 119.38 77.21 180)
 		(length 2.54)
 		(name "SD_DAT0"
@@ -500,7 +500,7 @@
 		)
 		(uuid "052958aa-baf5-4138-ad33-8195e02797f0")
 	)
-	(pin bidirectional line
+	(pin bidirectional
 		(at 119.38 78.43 180)
 		(length 2.54)
 		(name "SD_CLK"
@@ -512,7 +512,7 @@
 		)
 		(uuid "2fb368ee-66dc-443c-b92b-3917d952dedb")
 	)
-	(pin bidirectional line
+	(pin bidirectional
 		(at 119.38 79.65 180)
 		(length 2.54)
 		(name "SD_CMD"
@@ -524,7 +524,7 @@
 		)
 		(uuid "11a858df-0960-464e-807b-f186a401d45b")
 	)
-	(pin bidirectional line
+	(pin bidirectional
 		(at 119.38 80.86 180)
 		(length 2.54)
 		(name "SD_DAT3"
@@ -536,7 +536,7 @@
 		)
 		(uuid "16af3000-83d4-493e-9b1c-1fc978fb22a2")
 	)
-	(pin bidirectional line
+	(pin bidirectional
 		(at 119.38 82.08 180)
 		(length 2.54)
 		(name "SD_DAT2"
@@ -548,7 +548,7 @@
 		)
 		(uuid "b1b7bd1f-ed59-4e41-aa4b-f7c6e52af506")
 	)
-	(pin bidirectional line
+	(pin bidirectional
 		(at 119.38 83.30 180)
 		(length 2.54)
 		(name "SD__1"
@@ -560,7 +560,7 @@
 		)
 		(uuid "f01ed2f7-2d33-4fcc-a7ce-a0fcb549ad71")
 	)
-	(pin bidirectional line
+	(pin bidirectional
 		(at 119.38 84.52 180)
 		(length 2.54)
 		(name "SD__2"
@@ -572,7 +572,7 @@
 		)
 		(uuid "78c44b8e-1212-4cab-bb12-c9930192ceb4")
 	)
-	(pin bidirectional line
+	(pin bidirectional
 		(at 119.38 85.73 180)
 		(length 2.54)
 		(name "SD__3"
@@ -584,7 +584,7 @@
 		)
 		(uuid "ccb758be-d4cf-42eb-9138-5f8538e0d1b6")
 	)
-	(pin bidirectional line
+	(pin bidirectional
 		(at 119.38 86.95 180)
 		(length 2.54)
 		(name "GND"
@@ -596,7 +596,7 @@
 		)
 		(uuid "7e4b175c-f129-4d18-9655-d72727f756ca")
 	)
-	(pin bidirectional line
+	(pin bidirectional
 		(at 119.38 88.17 180)
 		(length 2.54)
 		(name "GND"
@@ -608,7 +608,7 @@
 		)
 		(uuid "1f21b76c-6a77-427b-9f04-8b4a7895f1b7")
 	)
-	(pin bidirectional line
+	(pin bidirectional
 		(at 168.91 54.07 0)
 		(length 2.54)
 		(name "ID_SD/GPIO0"
@@ -620,7 +620,7 @@
 		)
 		(uuid "1fc5828a-d9d0-44e2-8934-5a6a50be5e41")
 	)
-	(pin bidirectional line
+	(pin bidirectional
 		(at 168.91 55.43 0)
 		(length 2.54)
 		(name "ID_SC/GPIO1"
@@ -632,7 +632,7 @@
 		)
 		(uuid "37c05748-619e-4365-8004-52d3cf8b845d")
 	)
-	(pin bidirectional line
+	(pin bidirectional
 		(at 168.91 56.80 0)
 		(length 2.54)
 		(name "SDA/GPIO2"
@@ -644,7 +644,7 @@
 		)
 		(uuid "8e023782-bfad-46c9-86c8-bb42a8d3b1ab")
 	)
-	(pin bidirectional line
+	(pin bidirectional
 		(at 168.91 58.16 0)
 		(length 2.54)
 		(name "SCL/GPIO3"
@@ -656,7 +656,7 @@
 		)
 		(uuid "ae0bb2ce-8327-4f09-95d1-30cebdae7805")
 	)
-	(pin bidirectional line
+	(pin bidirectional
 		(at 168.91 59.53 0)
 		(length 2.54)
 		(name "GCLK0/GPIO4"
@@ -668,7 +668,7 @@
 		)
 		(uuid "65df9c9d-7b3c-4a1c-8869-8f0fb548670f")
 	)
-	(pin bidirectional line
+	(pin bidirectional
 		(at 168.91 60.89 0)
 		(length 2.54)
 		(name "GCLK1/GPIO5"
@@ -680,7 +680,7 @@
 		)
 		(uuid "eccf4a12-7087-4cba-b766-6fc96ddb66ed")
 	)
-	(pin bidirectional line
+	(pin bidirectional
 		(at 168.91 62.25 0)
 		(length 2.54)
 		(name "GCLK2/GPIO6"
@@ -692,7 +692,7 @@
 		)
 		(uuid "c4d8846e-08a4-496f-96db-f83d6be39bbe")
 	)
-	(pin bidirectional line
+	(pin bidirectional
 		(at 168.91 63.62 0)
 		(length 2.54)
 		(name "~{CE1}/GPIO7"
@@ -704,7 +704,7 @@
 		)
 		(uuid "f0b65f06-9ed7-4175-91d9-bbbdc9d24409")
 	)
-	(pin bidirectional line
+	(pin bidirectional
 		(at 168.91 64.98 0)
 		(length 2.54)
 		(name "~{CE0}/GPIO8"
@@ -716,7 +716,7 @@
 		)
 		(uuid "7952563c-5c02-4f99-bad2-13d1fb84b5ab")
 	)
-	(pin bidirectional line
+	(pin bidirectional
 		(at 168.91 66.35 0)
 		(length 2.54)
 		(name "MISO0/GPIO9"
@@ -728,7 +728,7 @@
 		)
 		(uuid "cb89d8fa-5b98-444b-8779-bb0627da236f")
 	)
-	(pin bidirectional line
+	(pin bidirectional
 		(at 168.91 67.71 0)
 		(length 2.54)
 		(name "MOSI0/GPIO10"
@@ -740,7 +740,7 @@
 		)
 		(uuid "77b3f771-549f-48e8-9e5f-c5d5ba26b3bf")
 	)
-	(pin bidirectional line
+	(pin bidirectional
 		(at 168.91 69.07 0)
 		(length 2.54)
 		(name "SCLK0/GPIO11"
@@ -752,7 +752,7 @@
 		)
 		(uuid "16d9c2f3-4f50-496c-8baf-f704125599b5")
 	)
-	(pin bidirectional line
+	(pin bidirectional
 		(at 168.91 70.44 0)
 		(length 2.54)
 		(name "PWM0/GPIO12"
@@ -764,7 +764,7 @@
 		)
 		(uuid "40c1636e-848b-4052-8610-1c1e7423677a")
 	)
-	(pin bidirectional line
+	(pin bidirectional
 		(at 168.91 71.80 0)
 		(length 2.54)
 		(name "PWM1/GPIO13"
@@ -776,7 +776,7 @@
 		)
 		(uuid "3918d0a6-fff3-4d5c-979f-a9459ca00159")
 	)
-	(pin bidirectional line
+	(pin bidirectional
 		(at 168.91 73.17 0)
 		(length 2.54)
 		(name "+5"
@@ -788,7 +788,7 @@
 		)
 		(uuid "ea52fa6b-30dd-477c-927e-c361bb9f92f0")
 	)
-	(pin bidirectional line
+	(pin bidirectional
 		(at 168.91 74.53 0)
 		(length 2.54)
 		(name "+5_1"
@@ -800,7 +800,7 @@
 		)
 		(uuid "c76b60bc-b589-41e3-853f-7d12c53cebaf")
 	)
-	(pin bidirectional line
+	(pin bidirectional
 		(at 168.91 75.89 0)
 		(length 2.54)
 		(name "WL_ON"
@@ -812,7 +812,7 @@
 		)
 		(uuid "26abfe72-2901-478e-868c-10481ca7fd46")
 	)
-	(pin bidirectional line
+	(pin bidirectional
 		(at 168.91 77.26 0)
 		(length 2.54)
 		(name "BT_ON"
@@ -824,7 +824,7 @@
 		)
 		(uuid "f4534585-95cb-42d4-be3e-4bdd5c17c978")
 	)
-	(pin bidirectional line
+	(pin bidirectional
 		(at 168.91 78.62 0)
 		(length 2.54)
 		(name "RUN"
@@ -836,7 +836,7 @@
 		)
 		(uuid "9422aab0-4e1f-4f54-8896-59a21da0a3f4")
 	)
-	(pin bidirectional line
+	(pin bidirectional
 		(at 168.91 79.99 0)
 		(length 2.54)
 		(name "CORE"
@@ -848,7 +848,7 @@
 		)
 		(uuid "2a047ac8-40a5-4b64-afcc-fa455e4fd796")
 	)
-	(pin bidirectional line
+	(pin bidirectional
 		(at 168.91 81.35 0)
 		(length 2.54)
 		(name "STATUS_LED"
@@ -860,7 +860,7 @@
 		)
 		(uuid "549e395d-06a4-4163-aa3c-68ae708c8e27")
 	)
-	(pin bidirectional line
+	(pin bidirectional
 		(at 168.91 82.71 0)
 		(length 2.54)
 		(name "+5"
@@ -872,7 +872,7 @@
 		)
 		(uuid "8ff72abe-21bb-4058-8c9a-35200f6dbaf0")
 	)
-	(pin bidirectional line
+	(pin bidirectional
 		(at 168.91 84.08 0)
 		(length 2.54)
 		(name "GND"
@@ -884,7 +884,7 @@
 		)
 		(uuid "d7bd94e2-befb-43e0-a620-bc723220a90f")
 	)
-	(pin bidirectional line
+	(pin bidirectional
 		(at 168.91 85.44 0)
 		(length 2.54)
 		(name "GND"
@@ -896,7 +896,7 @@
 		)
 		(uuid "91ec0f5c-d65f-4daa-8c67-7fbb75dac6db")
 	)
-	(pin bidirectional line
+	(pin bidirectional
 		(at 168.91 86.81 0)
 		(length 2.54)
 		(name "USB_DP"
@@ -908,7 +908,7 @@
 		)
 		(uuid "9bd08c1b-9243-4b6f-98f4-ea5ae01cbc51")
 	)
-	(pin bidirectional line
+	(pin bidirectional
 		(at 168.91 88.17 0)
 		(length 2.54)
 		(name "USB_DM"
@@ -920,7 +920,7 @@
 		)
 		(uuid "893670f6-4e81-479d-af5e-d869d7ce7049")
 	)
-	(pin bidirectional line
+	(pin bidirectional
 		(at 124.38 52.07 90)
 		(length 2.54)
 		(name "5V"
@@ -932,7 +932,7 @@
 		)
 		(uuid "33a8e46f-43f2-47a6-8fba-bbc7aa8d09bd")
 	)
-	(pin bidirectional line
+	(pin bidirectional
 		(at 137.56 52.07 90)
 		(length 2.54)
 		(name "GPIO4"
@@ -944,7 +944,7 @@
 		)
 		(uuid "567b0b9f-0ed0-478f-8ddf-6abc063550a7")
 	)
-	(pin bidirectional line
+	(pin bidirectional
 		(at 150.73 52.07 90)
 		(length 2.54)
 		(name "3V3"
@@ -956,7 +956,7 @@
 		)
 		(uuid "e0cc1f6a-bced-43df-acfa-82712cda7bcd")
 	)
-	(pin bidirectional line
+	(pin bidirectional
 		(at 163.91 52.07 90)
 		(length 2.54)
 		(name "3V3"
@@ -968,7 +968,7 @@
 		)
 		(uuid "c8c746c5-d493-4be9-a722-b15f7f19fd02")
 	)
-	(pin bidirectional line
+	(pin bidirectional
 		(at 124.38 90.17 270)
 		(length 2.54)
 		(name "GND"
@@ -980,7 +980,7 @@
 		)
 		(uuid "76deaaa0-62b7-4664-85e2-147283ad58b8")
 	)
-	(pin bidirectional line
+	(pin bidirectional
 		(at 128.77 90.17 270)
 		(length 2.54)
 		(name "GND"
@@ -992,7 +992,7 @@
 		)
 		(uuid "b7333cd4-5796-42d3-a41a-3378af8055af")
 	)
-	(pin bidirectional line
+	(pin bidirectional
 		(at 133.16 90.17 270)
 		(length 2.54)
 		(name "GND"
@@ -1004,7 +1004,7 @@
 		)
 		(uuid "fe93010e-fef3-4550-9cec-6dca2e28b577")
 	)
-	(pin bidirectional line
+	(pin bidirectional
 		(at 137.56 90.17 270)
 		(length 2.54)
 		(name "GND"
@@ -1016,7 +1016,7 @@
 		)
 		(uuid "8a27f01c-69e6-4899-9f79-cfa5e3815edd")
 	)
-	(pin bidirectional line
+	(pin bidirectional
 		(at 141.95 90.17 270)
 		(length 2.54)
 		(name "GND"
@@ -1028,7 +1028,7 @@
 		)
 		(uuid "065cc6ff-b11d-4bc7-8fe8-881ee8273f64")
 	)
-	(pin bidirectional line
+	(pin bidirectional
 		(at 146.34 90.17 270)
 		(length 2.54)
 		(name "GND"
@@ -1040,7 +1040,7 @@
 		)
 		(uuid "e345584a-aa4d-4d49-a474-70c17c2974aa")
 	)
-	(pin bidirectional line
+	(pin bidirectional
 		(at 150.73 90.17 270)
 		(length 2.54)
 		(name "GND"
@@ -1052,7 +1052,7 @@
 		)
 		(uuid "2fca5445-ca70-4d44-b999-b24b34644553")
 	)
-	(pin bidirectional line
+	(pin bidirectional
 		(at 155.13 90.17 270)
 		(length 2.54)
 		(name "GND"
@@ -1064,7 +1064,7 @@
 		)
 		(uuid "360f115e-3d50-4733-9980-3c8c8bf86683")
 	)
-	(pin bidirectional line
+	(pin bidirectional
 		(at 159.52 90.17 270)
 		(length 2.54)
 		(name "GND"
@@ -1076,7 +1076,7 @@
 		)
 		(uuid "7ecaede9-3e2b-44f5-8906-77e6b9bd1ef5")
 	)
-	(pin bidirectional line
+	(pin bidirectional
 		(at 163.91 90.17 270)
 		(length 2.54)
 		(name "+5V"
