@@ -2022,32 +2022,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "5acbd32f-5605-450d-b4d4-c00fb7d71438")
+			(uuid "a1f28ca7-53c3-4c69-9e46-f3ad6872184a")
 		)
 		(instances
 			(project "nfc_rpi"
-				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/05894123-5cc5-4ad3-b976-a2cb5434e1fc/e7408271-346a-4a7d-a5c2-b1a8b0208d47"
+				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/17d56b9c-b5ec-4a0f-aaca-2f9ebdad3756"
 					(reference "#PWR09")
-					(unit 1)
-				)
-			)
-			(project "project_pi"
-				(path "/787baf38-3f0d-4343-8d8d-fd5be619bbb1"
-					(reference "#PWR?")
-					(unit 1)
-				)
-				(path "/787baf38-3f0d-4343-8d8d-fd5be619bbb1/be80949c-27d0-42c7-952c-f1fefb988b3e"
-					(reference "#PWR?")
-					(unit 1)
-				)
-				(path "/787baf38-3f0d-4343-8d8d-fd5be619bbb1/b5d23a5d-5098-4708-9d84-8e554856594a/facaf99b-2960-487a-b2ae-b02e06b2bb82"
-					(reference "#PWR?")
-					(unit 1)
-				)
-			)
-			(project "rpi2w_epaper_zigbee"
-				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa/e780ddda-ef3c-47ec-bd0e-2dacce2c9374"
-					(reference "#PWR088")
 					(unit 1)
 				)
 			)
@@ -2117,39 +2097,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "1b674505-3271-4bef-afa6-ac859c077d35")
+			(uuid "ec397e45-f59b-41f5-bd76-8bef6f85628c")
 		)
 		(pin "2"
-			(uuid "da0187c7-4f85-4d71-9e22-b3f7043c88b1")
+			(uuid "06a1cde9-f52e-473d-b02a-8e80d691730c")
 		)
 		(instances
-			(project "gaussmeter"
-				(path "/21f11a9b-ab0b-4e73-b79c-288ebb2e7a94"
-					(reference "R?")
-					(unit 1)
-				)
-			)
 			(project "nfc_rpi"
-				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/05894123-5cc5-4ad3-b976-a2cb5434e1fc/e7408271-346a-4a7d-a5c2-b1a8b0208d47"
+				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/17d56b9c-b5ec-4a0f-aaca-2f9ebdad3756"
 					(reference "R1")
-					(unit 1)
-				)
-			)
-			(project "rpi2w_epaper_zigbee"
-				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407"
-					(reference "R?")
-					(unit 1)
-				)
-				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9"
-					(reference "R?")
-					(unit 1)
-				)
-				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa/0955ec0f-cd10-4773-a833-c5ec9aee34e0"
-					(reference "R?")
-					(unit 1)
-				)
-				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa/e780ddda-ef3c-47ec-bd0e-2dacce2c9374"
-					(reference "R56")
 					(unit 1)
 				)
 			)
@@ -2221,46 +2177,30 @@
 			)
 		)
 		(pin "1"
-			(uuid "d4ddf326-6185-474b-924f-2b1ee4b9c424")
+			(uuid "c91b5c8e-8e88-4d96-a6a5-d5cfe9e5b18e")
 		)
 		(pin "2"
-			(uuid "7baf954c-a9e2-40bb-bfaf-67b25cb2c9ef")
+			(uuid "cb090b63-789b-42d7-9ecd-fea7912c0360")
 		)
 		(pin "3"
-			(uuid "9dc225af-cff0-4d3b-97c0-5f65cd62c1d4")
+			(uuid "25b0b63f-d638-4ab6-9ecf-c0d12e4fe2f1")
 		)
 		(pin "4"
-			(uuid "de648bbe-6b3f-4931-84d4-1ac30d9467db")
+			(uuid "c75702a0-5c1a-4d81-a252-ccaa087a283b")
 		)
 		(pin "5"
-			(uuid "d227d180-f4f2-4fee-ab2f-2e5f7995cdab")
+			(uuid "23a02482-89a2-4e90-86d8-3409d1a91307")
 		)
 		(pin "6"
-			(uuid "2d1b30ab-4ffc-424d-a93e-5ab860c0a83b")
+			(uuid "5427bd68-f050-420e-bd16-20c3f70491f5")
 		)
 		(pin "7"
-			(uuid "b4b6d5de-fe19-4053-8167-33e14b77b466")
+			(uuid "21125eda-466b-473f-a520-651762e38552")
 		)
 		(instances
 			(project "nfc_rpi"
-				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/05894123-5cc5-4ad3-b976-a2cb5434e1fc/e7408271-346a-4a7d-a5c2-b1a8b0208d47"
+				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/17d56b9c-b5ec-4a0f-aaca-2f9ebdad3756"
 					(reference "J3")
-					(unit 1)
-				)
-			)
-			(project "project_pi"
-				(path "/787baf38-3f0d-4343-8d8d-fd5be619bbb1/be80949c-27d0-42c7-952c-f1fefb988b3e"
-					(reference "J?")
-					(unit 1)
-				)
-				(path "/787baf38-3f0d-4343-8d8d-fd5be619bbb1/b5d23a5d-5098-4708-9d84-8e554856594a/facaf99b-2960-487a-b2ae-b02e06b2bb82"
-					(reference "J?")
-					(unit 1)
-				)
-			)
-			(project "rpi2w_epaper_zigbee"
-				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa/e780ddda-ef3c-47ec-bd0e-2dacce2c9374"
-					(reference "J37")
 					(unit 1)
 				)
 			)
@@ -2333,32 +2273,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "914bcdd9-0cb3-407f-8ce7-451e798d333d")
+			(uuid "eaeb8192-3085-496e-ba9f-a1873897ffcc")
 		)
 		(instances
 			(project "nfc_rpi"
-				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/05894123-5cc5-4ad3-b976-a2cb5434e1fc/e7408271-346a-4a7d-a5c2-b1a8b0208d47"
+				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/17d56b9c-b5ec-4a0f-aaca-2f9ebdad3756"
 					(reference "#PWR016")
-					(unit 1)
-				)
-			)
-			(project "project_pi"
-				(path "/787baf38-3f0d-4343-8d8d-fd5be619bbb1"
-					(reference "#PWR?")
-					(unit 1)
-				)
-				(path "/787baf38-3f0d-4343-8d8d-fd5be619bbb1/be80949c-27d0-42c7-952c-f1fefb988b3e"
-					(reference "#PWR?")
-					(unit 1)
-				)
-				(path "/787baf38-3f0d-4343-8d8d-fd5be619bbb1/b5d23a5d-5098-4708-9d84-8e554856594a/facaf99b-2960-487a-b2ae-b02e06b2bb82"
-					(reference "#PWR?")
-					(unit 1)
-				)
-			)
-			(project "rpi2w_epaper_zigbee"
-				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa/e780ddda-ef3c-47ec-bd0e-2dacce2c9374"
-					(reference "#PWR095")
 					(unit 1)
 				)
 			)
@@ -2430,32 +2350,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "9623d715-b49e-4ae7-be11-f05b2663a90a")
+			(uuid "3560c79d-a5bb-4349-8314-ccab1336e728")
 		)
 		(instances
 			(project "nfc_rpi"
-				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/05894123-5cc5-4ad3-b976-a2cb5434e1fc/e7408271-346a-4a7d-a5c2-b1a8b0208d47"
+				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/17d56b9c-b5ec-4a0f-aaca-2f9ebdad3756"
 					(reference "#PWR015")
-					(unit 1)
-				)
-			)
-			(project "project_pi"
-				(path "/787baf38-3f0d-4343-8d8d-fd5be619bbb1"
-					(reference "#PWR?")
-					(unit 1)
-				)
-				(path "/787baf38-3f0d-4343-8d8d-fd5be619bbb1/be80949c-27d0-42c7-952c-f1fefb988b3e"
-					(reference "#PWR?")
-					(unit 1)
-				)
-				(path "/787baf38-3f0d-4343-8d8d-fd5be619bbb1/b5d23a5d-5098-4708-9d84-8e554856594a/facaf99b-2960-487a-b2ae-b02e06b2bb82"
-					(reference "#PWR?")
-					(unit 1)
-				)
-			)
-			(project "rpi2w_epaper_zigbee"
-				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa/e780ddda-ef3c-47ec-bd0e-2dacce2c9374"
-					(reference "#PWR094")
 					(unit 1)
 				)
 			)
@@ -2527,11 +2427,11 @@
 			)
 		)
 		(pin "1"
-			(uuid "6cb553f1-f7d7-4802-89d8-e3681b285bf0")
+			(uuid "e4205d68-da4e-448c-8267-0d6079274418")
 		)
 		(instances
 			(project "nfc_rpi"
-				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/05894123-5cc5-4ad3-b976-a2cb5434e1fc/e7408271-346a-4a7d-a5c2-b1a8b0208d47"
+				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/17d56b9c-b5ec-4a0f-aaca-2f9ebdad3756"
 					(reference "#PWR05")
 					(unit 1)
 				)
@@ -2604,18 +2504,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "1e2ee7ac-be86-4a12-a9e2-695f5a180527")
+			(uuid "c0ba2e07-c054-40b8-bbf6-0780a7439cb1")
 		)
 		(instances
 			(project "nfc_rpi"
-				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/05894123-5cc5-4ad3-b976-a2cb5434e1fc/e7408271-346a-4a7d-a5c2-b1a8b0208d47"
+				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/17d56b9c-b5ec-4a0f-aaca-2f9ebdad3756"
 					(reference "#PWR06")
-					(unit 1)
-				)
-			)
-			(project "rpi2w_epaper_zigbee"
-				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa/e780ddda-ef3c-47ec-bd0e-2dacce2c9374"
-					(reference "#PWR085")
 					(unit 1)
 				)
 			)
@@ -2687,39 +2581,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "d5acbaea-ede7-46e7-afef-3e9fee3abe5e")
+			(uuid "6b6b65f7-4e98-46d1-b520-ba50d7fdf814")
 		)
 		(pin "2"
-			(uuid "2ce4f574-b634-4599-8c8b-212946314747")
+			(uuid "d873269f-8cc1-4d50-b7a7-b908a8ad5f86")
 		)
 		(instances
 			(project "nfc_rpi"
-				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/05894123-5cc5-4ad3-b976-a2cb5434e1fc/e7408271-346a-4a7d-a5c2-b1a8b0208d47"
+				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/17d56b9c-b5ec-4a0f-aaca-2f9ebdad3756"
 					(reference "C10")
-					(unit 1)
-				)
-			)
-			(project "project_pi"
-				(path "/787baf38-3f0d-4343-8d8d-fd5be619bbb1/b5d23a5d-5098-4708-9d84-8e554856594a"
-					(reference "C?")
-					(unit 1)
-				)
-				(path "/787baf38-3f0d-4343-8d8d-fd5be619bbb1/dd14cf3d-4389-4481-a76a-0ee1e1deddd9"
-					(reference "C?")
-					(unit 1)
-				)
-				(path "/787baf38-3f0d-4343-8d8d-fd5be619bbb1/f2931b9b-6fcc-4199-91d8-d06fd17cb974"
-					(reference "C?")
-					(unit 1)
-				)
-				(path "/787baf38-3f0d-4343-8d8d-fd5be619bbb1/b5d23a5d-5098-4708-9d84-8e554856594a/facaf99b-2960-487a-b2ae-b02e06b2bb82"
-					(reference "C?")
-					(unit 1)
-				)
-			)
-			(project "rpi2w_epaper_zigbee"
-				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa/e780ddda-ef3c-47ec-bd0e-2dacce2c9374"
-					(reference "C25")
 					(unit 1)
 				)
 			)
@@ -2791,39 +2661,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "15776d12-1bd5-4033-8d03-ded709ce39c6")
+			(uuid "413bda7a-7be2-4600-9ea6-08cd278f1284")
 		)
 		(pin "2"
-			(uuid "348f2ae7-dc6a-45bd-856f-b6b356123dc7")
+			(uuid "18e220fb-0c70-49e1-b087-685cf243d434")
 		)
 		(instances
 			(project "nfc_rpi"
-				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/05894123-5cc5-4ad3-b976-a2cb5434e1fc/e7408271-346a-4a7d-a5c2-b1a8b0208d47"
+				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/17d56b9c-b5ec-4a0f-aaca-2f9ebdad3756"
 					(reference "C8")
-					(unit 1)
-				)
-			)
-			(project "project_pi"
-				(path "/787baf38-3f0d-4343-8d8d-fd5be619bbb1/b5d23a5d-5098-4708-9d84-8e554856594a"
-					(reference "C?")
-					(unit 1)
-				)
-				(path "/787baf38-3f0d-4343-8d8d-fd5be619bbb1/dd14cf3d-4389-4481-a76a-0ee1e1deddd9"
-					(reference "C?")
-					(unit 1)
-				)
-				(path "/787baf38-3f0d-4343-8d8d-fd5be619bbb1/f2931b9b-6fcc-4199-91d8-d06fd17cb974"
-					(reference "C?")
-					(unit 1)
-				)
-				(path "/787baf38-3f0d-4343-8d8d-fd5be619bbb1/b5d23a5d-5098-4708-9d84-8e554856594a/facaf99b-2960-487a-b2ae-b02e06b2bb82"
-					(reference "C?")
-					(unit 1)
-				)
-			)
-			(project "rpi2w_epaper_zigbee"
-				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa/e780ddda-ef3c-47ec-bd0e-2dacce2c9374"
-					(reference "C23")
 					(unit 1)
 				)
 			)
@@ -2895,39 +2741,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "44e08500-dbc3-4547-b559-990935882c0b")
+			(uuid "40e1c4ab-9ba4-400b-a9b2-25777df80239")
 		)
 		(pin "2"
-			(uuid "78fddca5-21f1-4101-9473-d1a19ee5f5c0")
+			(uuid "2c159cf8-5b79-4c79-b888-b6f4c62e325a")
 		)
 		(instances
 			(project "nfc_rpi"
-				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/05894123-5cc5-4ad3-b976-a2cb5434e1fc/e7408271-346a-4a7d-a5c2-b1a8b0208d47"
+				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/17d56b9c-b5ec-4a0f-aaca-2f9ebdad3756"
 					(reference "C9")
-					(unit 1)
-				)
-			)
-			(project "project_pi"
-				(path "/787baf38-3f0d-4343-8d8d-fd5be619bbb1/b5d23a5d-5098-4708-9d84-8e554856594a"
-					(reference "C?")
-					(unit 1)
-				)
-				(path "/787baf38-3f0d-4343-8d8d-fd5be619bbb1/dd14cf3d-4389-4481-a76a-0ee1e1deddd9"
-					(reference "C?")
-					(unit 1)
-				)
-				(path "/787baf38-3f0d-4343-8d8d-fd5be619bbb1/f2931b9b-6fcc-4199-91d8-d06fd17cb974"
-					(reference "C?")
-					(unit 1)
-				)
-				(path "/787baf38-3f0d-4343-8d8d-fd5be619bbb1/b5d23a5d-5098-4708-9d84-8e554856594a/facaf99b-2960-487a-b2ae-b02e06b2bb82"
-					(reference "C?")
-					(unit 1)
-				)
-			)
-			(project "rpi2w_epaper_zigbee"
-				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa/e780ddda-ef3c-47ec-bd0e-2dacce2c9374"
-					(reference "C24")
 					(unit 1)
 				)
 			)
@@ -2999,18 +2821,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "60e06af0-f3dc-46e1-bc42-02df3a8579b8")
+			(uuid "e5e244ca-12d4-443f-bc3d-c0f2a1e86341")
 		)
 		(instances
 			(project "nfc_rpi"
-				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/05894123-5cc5-4ad3-b976-a2cb5434e1fc/e7408271-346a-4a7d-a5c2-b1a8b0208d47"
+				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/17d56b9c-b5ec-4a0f-aaca-2f9ebdad3756"
 					(reference "#PWR013")
-					(unit 1)
-				)
-			)
-			(project "rpi2w_epaper_zigbee"
-				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa/e780ddda-ef3c-47ec-bd0e-2dacce2c9374"
-					(reference "#PWR092")
 					(unit 1)
 				)
 			)
@@ -3080,39 +2896,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "bd0624c7-c632-48d1-a2b1-0c3b98263da2")
+			(uuid "fbc9548c-1a0b-4ea9-9cb7-64439db3beec")
 		)
 		(pin "2"
-			(uuid "6ea5ef90-7d9f-4126-8ce6-9478336ccd72")
+			(uuid "55727363-6bfb-4f70-a747-b2cc6a877ef7")
 		)
 		(instances
-			(project "gaussmeter"
-				(path "/21f11a9b-ab0b-4e73-b79c-288ebb2e7a94"
-					(reference "R?")
-					(unit 1)
-				)
-			)
 			(project "nfc_rpi"
-				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/05894123-5cc5-4ad3-b976-a2cb5434e1fc/e7408271-346a-4a7d-a5c2-b1a8b0208d47"
+				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/17d56b9c-b5ec-4a0f-aaca-2f9ebdad3756"
 					(reference "R2")
-					(unit 1)
-				)
-			)
-			(project "rpi2w_epaper_zigbee"
-				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407"
-					(reference "R?")
-					(unit 1)
-				)
-				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9"
-					(reference "R?")
-					(unit 1)
-				)
-				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa/0955ec0f-cd10-4773-a833-c5ec9aee34e0"
-					(reference "R?")
-					(unit 1)
-				)
-				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa/e780ddda-ef3c-47ec-bd0e-2dacce2c9374"
-					(reference "R57")
 					(unit 1)
 				)
 			)
@@ -3184,28 +2976,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "47f3af6e-070f-4888-a881-6a82bd315beb")
+			(uuid "134aa8fb-590c-47cd-87ee-19da2a4a611b")
 		)
 		(instances
 			(project "nfc_rpi"
-				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/05894123-5cc5-4ad3-b976-a2cb5434e1fc/e7408271-346a-4a7d-a5c2-b1a8b0208d47"
+				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/17d56b9c-b5ec-4a0f-aaca-2f9ebdad3756"
 					(reference "#PWR010")
-					(unit 1)
-				)
-			)
-			(project "project_pi"
-				(path "/787baf38-3f0d-4343-8d8d-fd5be619bbb1/b5d23a5d-5098-4708-9d84-8e554856594a"
-					(reference "#PWR?")
-					(unit 1)
-				)
-				(path "/787baf38-3f0d-4343-8d8d-fd5be619bbb1/b5d23a5d-5098-4708-9d84-8e554856594a/facaf99b-2960-487a-b2ae-b02e06b2bb82"
-					(reference "#PWR?")
-					(unit 1)
-				)
-			)
-			(project "rpi2w_epaper_zigbee"
-				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa/e780ddda-ef3c-47ec-bd0e-2dacce2c9374"
-					(reference "#PWR089")
 					(unit 1)
 				)
 			)
@@ -3277,18 +3053,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "14570852-4c15-491f-a0d6-dbdc9bdf8963")
+			(uuid "128323a7-d8fd-4ebf-a450-0aedb8f7b382")
 		)
 		(instances
 			(project "nfc_rpi"
-				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/05894123-5cc5-4ad3-b976-a2cb5434e1fc/e7408271-346a-4a7d-a5c2-b1a8b0208d47"
+				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/17d56b9c-b5ec-4a0f-aaca-2f9ebdad3756"
 					(reference "#PWR08")
-					(unit 1)
-				)
-			)
-			(project "rpi2w_epaper_zigbee"
-				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa/e780ddda-ef3c-47ec-bd0e-2dacce2c9374"
-					(reference "#PWR087")
 					(unit 1)
 				)
 			)
@@ -3360,32 +3130,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "153458df-0cda-4ad1-8546-5e89167c9c56")
+			(uuid "4678a43d-e41f-490b-839a-3f8fcf1dab92")
 		)
 		(instances
 			(project "nfc_rpi"
-				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/05894123-5cc5-4ad3-b976-a2cb5434e1fc/e7408271-346a-4a7d-a5c2-b1a8b0208d47"
+				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/17d56b9c-b5ec-4a0f-aaca-2f9ebdad3756"
 					(reference "#PWR011")
-					(unit 1)
-				)
-			)
-			(project "project_pi"
-				(path "/787baf38-3f0d-4343-8d8d-fd5be619bbb1"
-					(reference "#PWR?")
-					(unit 1)
-				)
-				(path "/787baf38-3f0d-4343-8d8d-fd5be619bbb1/be80949c-27d0-42c7-952c-f1fefb988b3e"
-					(reference "#PWR?")
-					(unit 1)
-				)
-				(path "/787baf38-3f0d-4343-8d8d-fd5be619bbb1/b5d23a5d-5098-4708-9d84-8e554856594a/facaf99b-2960-487a-b2ae-b02e06b2bb82"
-					(reference "#PWR?")
-					(unit 1)
-				)
-			)
-			(project "rpi2w_epaper_zigbee"
-				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa/e780ddda-ef3c-47ec-bd0e-2dacce2c9374"
-					(reference "#PWR090")
 					(unit 1)
 				)
 			)
@@ -3457,18 +3207,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "264b0156-fcbe-4cef-b05d-1bc15178139c")
+			(uuid "26d10278-01f0-4120-9ee1-feacfac104c8")
 		)
 		(instances
 			(project "nfc_rpi"
-				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/05894123-5cc5-4ad3-b976-a2cb5434e1fc/e7408271-346a-4a7d-a5c2-b1a8b0208d47"
+				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/17d56b9c-b5ec-4a0f-aaca-2f9ebdad3756"
 					(reference "#PWR017")
-					(unit 1)
-				)
-			)
-			(project "rpi2w_epaper_zigbee"
-				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa/e780ddda-ef3c-47ec-bd0e-2dacce2c9374"
-					(reference "#PWR096")
 					(unit 1)
 				)
 			)
@@ -3541,47 +3285,27 @@
 			)
 		)
 		(pin "1"
-			(uuid "442300a8-b8e9-4d5e-b072-8135b5424fd2")
+			(uuid "7b69eff3-f075-439a-b4cd-eb7d272a3737")
 		)
 		(pin "2"
-			(uuid "3f93f205-9136-4349-bd58-8a2215a0925a")
+			(uuid "98162ff5-d373-4874-ac30-43130616d374")
 		)
 		(pin "3"
-			(uuid "69112a74-7c9b-486e-856d-a7f79e94e041")
+			(uuid "0dd42b73-5199-4c1d-b873-626d8b2d9a5e")
 		)
 		(pin "4"
-			(uuid "d83390d2-c91a-4b3e-a57a-7495e4bb8f24")
+			(uuid "b35021c1-6662-414f-85f4-9b8d2f35497f")
 		)
 		(pin "5"
-			(uuid "b62a06ad-251b-48e2-95a7-3eab12f8ed08")
+			(uuid "e64f6562-46fd-4cf4-b7b0-9cb23816e9cc")
 		)
 		(pin "6"
-			(uuid "ee829858-e873-47e1-b737-0e9e25c77099")
+			(uuid "37aa7e4d-fad8-4ed2-8dcd-c1387d293b64")
 		)
 		(instances
 			(project "nfc_rpi"
-				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/05894123-5cc5-4ad3-b976-a2cb5434e1fc/e7408271-346a-4a7d-a5c2-b1a8b0208d47"
+				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/17d56b9c-b5ec-4a0f-aaca-2f9ebdad3756"
 					(reference "J2")
-					(unit 1)
-				)
-			)
-			(project "project_pi"
-				(path "/787baf38-3f0d-4343-8d8d-fd5be619bbb1"
-					(reference "J?")
-					(unit 1)
-				)
-				(path "/787baf38-3f0d-4343-8d8d-fd5be619bbb1/be80949c-27d0-42c7-952c-f1fefb988b3e"
-					(reference "J?")
-					(unit 1)
-				)
-				(path "/787baf38-3f0d-4343-8d8d-fd5be619bbb1/b5d23a5d-5098-4708-9d84-8e554856594a/facaf99b-2960-487a-b2ae-b02e06b2bb82"
-					(reference "J?")
-					(unit 1)
-				)
-			)
-			(project "rpi2w_epaper_zigbee"
-				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa/e780ddda-ef3c-47ec-bd0e-2dacce2c9374"
-					(reference "J36")
 					(unit 1)
 				)
 			)
@@ -3653,32 +3377,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "e08c43be-511e-4e24-b295-5b372bfd81ca")
+			(uuid "fb4c285a-1f54-4464-ad2a-8159057ce0e9")
 		)
 		(instances
 			(project "nfc_rpi"
-				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/05894123-5cc5-4ad3-b976-a2cb5434e1fc/e7408271-346a-4a7d-a5c2-b1a8b0208d47"
+				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/17d56b9c-b5ec-4a0f-aaca-2f9ebdad3756"
 					(reference "#PWR07")
-					(unit 1)
-				)
-			)
-			(project "project_pi"
-				(path "/787baf38-3f0d-4343-8d8d-fd5be619bbb1"
-					(reference "#PWR?")
-					(unit 1)
-				)
-				(path "/787baf38-3f0d-4343-8d8d-fd5be619bbb1/be80949c-27d0-42c7-952c-f1fefb988b3e"
-					(reference "#PWR?")
-					(unit 1)
-				)
-				(path "/787baf38-3f0d-4343-8d8d-fd5be619bbb1/b5d23a5d-5098-4708-9d84-8e554856594a/facaf99b-2960-487a-b2ae-b02e06b2bb82"
-					(reference "#PWR?")
-					(unit 1)
-				)
-			)
-			(project "rpi2w_epaper_zigbee"
-				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa/e780ddda-ef3c-47ec-bd0e-2dacce2c9374"
-					(reference "#PWR086")
 					(unit 1)
 				)
 			)
@@ -3750,28 +3454,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "a29d8063-9027-4538-b02b-10dafcc08f24")
+			(uuid "f1ce5c4a-087a-4e5e-ba01-4f5c5e74af3c")
 		)
 		(instances
 			(project "nfc_rpi"
-				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/05894123-5cc5-4ad3-b976-a2cb5434e1fc/e7408271-346a-4a7d-a5c2-b1a8b0208d47"
+				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/17d56b9c-b5ec-4a0f-aaca-2f9ebdad3756"
 					(reference "#PWR012")
-					(unit 1)
-				)
-			)
-			(project "project_pi"
-				(path "/787baf38-3f0d-4343-8d8d-fd5be619bbb1/b5d23a5d-5098-4708-9d84-8e554856594a"
-					(reference "#PWR?")
-					(unit 1)
-				)
-				(path "/787baf38-3f0d-4343-8d8d-fd5be619bbb1/b5d23a5d-5098-4708-9d84-8e554856594a/facaf99b-2960-487a-b2ae-b02e06b2bb82"
-					(reference "#PWR?")
-					(unit 1)
-				)
-			)
-			(project "rpi2w_epaper_zigbee"
-				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa/e780ddda-ef3c-47ec-bd0e-2dacce2c9374"
-					(reference "#PWR091")
 					(unit 1)
 				)
 			)
@@ -3843,28 +3531,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "580ee4ba-bea4-4976-b26b-824a9283edcc")
+			(uuid "fa15061f-861d-4186-b859-08348839fdf0")
 		)
 		(instances
 			(project "nfc_rpi"
-				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/05894123-5cc5-4ad3-b976-a2cb5434e1fc/e7408271-346a-4a7d-a5c2-b1a8b0208d47"
+				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/17d56b9c-b5ec-4a0f-aaca-2f9ebdad3756"
 					(reference "#PWR014")
-					(unit 1)
-				)
-			)
-			(project "project_pi"
-				(path "/787baf38-3f0d-4343-8d8d-fd5be619bbb1/b5d23a5d-5098-4708-9d84-8e554856594a"
-					(reference "#PWR?")
-					(unit 1)
-				)
-				(path "/787baf38-3f0d-4343-8d8d-fd5be619bbb1/b5d23a5d-5098-4708-9d84-8e554856594a/facaf99b-2960-487a-b2ae-b02e06b2bb82"
-					(reference "#PWR?")
-					(unit 1)
-				)
-			)
-			(project "rpi2w_epaper_zigbee"
-				(path "/b399551b-4b97-4302-8921-d6009c0adde4/1d579dcc-e933-4401-b651-260801c00407/84ab4a69-ccf3-4ce1-bace-67b0704405a9/9dead999-4346-4391-b927-b533728301aa/e780ddda-ef3c-47ec-bd0e-2dacce2c9374"
-					(reference "#PWR093")
 					(unit 1)
 				)
 			)

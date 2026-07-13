@@ -98,7 +98,7 @@
 		)
 	)
 	(sheet
-		(at 207.01 111.76)
+		(at 129.54 113.03)
 		(size 25.4 19.05)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -114,7 +114,7 @@
 		)
 		(uuid "bbdaf4c0-ccc0-41eb-9083-de174647bac8")
 		(property "Sheetname" "swicth"
-			(at 207.01 111.0484 0)
+			(at 129.54 112.3184 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -125,7 +125,7 @@
 			)
 		)
 		(property "Sheetfile" "switch.kicad_sch"
-			(at 207.01 131.3946 0)
+			(at 129.54 132.6646 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -144,8 +144,8 @@
 		)
 	)
 	(sheet
-		(at 119.38 25.4)
-		(size 80.0 200.0)
+		(at 119.38 52.07)
+		(size 120.0 250.0)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -160,7 +160,7 @@
 		)
 		(uuid "be750499-642b-480d-a705-2f2f5d51d73a")
 		(property "Sheetname" "Raspberry"
-			(at 119.38 24.688399999999998 0)
+			(at 119.38 51.07 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -171,7 +171,7 @@
 			)
 		)
 		(property "Sheetfile" "raspberry_pn532.kicad_sch"
-			(at 119.38 226.3846 0)
+			(at 119.38 303.07 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -182,543 +182,57 @@
 			)
 		)
 		(pin "SDA" bidirectional
-			(at 199.38 79.90 0)
+			(at 239.38 112.07 0)
 			(uuid "3d50aafd-d99a-4a74-8fce-7479350248c3")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
 			)
 		)
 		(pin "SCL" bidirectional
-			(at 199.38 83.40 0)
+			(at 239.38 117.07 0)
 			(uuid "1399ba91-8b39-4afc-8d34-4b8ae8bfc9b6")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
 			)
 		)
 		(pin "GPIO5" bidirectional
-			(at 199.38 86.90 0)
+			(at 239.38 122.07 0)
 			(uuid "95386e15-c126-40fb-b8f9-eea82c275922")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
 			)
 		)
 		(pin "GPIO6" bidirectional
-			(at 199.38 90.40 0)
+			(at 239.38 127.07 0)
 			(uuid "de6fb6fd-b0b1-435e-868f-408df61b8812")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
 			)
 		)
 		(pin "MISO" bidirectional
-			(at 199.38 93.90 0)
+			(at 239.38 132.07 0)
 			(uuid "e967b933-d74a-498b-852b-233ce38b29af")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
 			)
 		)
 		(pin "SCK" bidirectional
-			(at 199.38 97.40 0)
+			(at 239.38 137.07 0)
 			(uuid "fe4c9533-5981-484e-aad8-7b564e10cf59")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
-			)
-		)
-		(pin "GPIO14/TXD" bidirectional
-			(at 119.38 81.65 180)
-			(uuid "d5aad726-e75c-4ae9-a83c-be931587a9d6")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "GPIO15/RXD" bidirectional
-			(at 119.38 85.15 180)
-			(uuid "2cfbf339-072c-4d43-9c82-2004e62968e5")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "GPIO16" bidirectional
-			(at 119.38 88.65 180)
-			(uuid "0cbea79d-6cbe-413b-b695-33292866ee4d")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "GPIO17" bidirectional
-			(at 119.38 92.15 180)
-			(uuid "5eacde9b-5be8-4e24-b76a-2db89472255f")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "GPIO18/PWM0" bidirectional
-			(at 119.38 95.65 180)
-			(uuid "2f4acc99-fea4-45db-a982-4374241a309b")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "GPIO19/MISO1" bidirectional
-			(at 119.38 99.15 180)
-			(uuid "2b76a7c4-45d0-4d9e-9031-b99b7332a8d4")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "GPIO20/MOSI1" bidirectional
-			(at 119.38 102.65 180)
-			(uuid "259a87b0-e0df-429d-ae24-57859128c1f6")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "GPIO21/SCLK1" bidirectional
-			(at 119.38 106.15 180)
-			(uuid "00ceba3b-3a0c-4651-99eb-a30a60fd38d9")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "GPIO22" bidirectional
-			(at 119.38 109.65 180)
-			(uuid "5f6ccf5c-e582-4620-bdf5-15a067724f47")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "GPIO23" bidirectional
-			(at 119.38 113.15 180)
-			(uuid "8999d29c-9e29-4f68-8a16-448c39d0a630")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "GPIO24" bidirectional
-			(at 119.38 116.65 180)
-			(uuid "31c50f12-4a33-4e90-b2bd-d62e8fc411d9")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "GPIO25" bidirectional
-			(at 119.38 120.15 180)
-			(uuid "d3e1220a-d630-4a0e-9a8b-ed54fcb5e52d")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "GPIO26" bidirectional
-			(at 119.38 123.65 180)
-			(uuid "c97a04dc-d84b-4510-bc6e-bf8c596a7cf1")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "GPIO27" bidirectional
-			(at 119.38 127.15 180)
-			(uuid "7c1e82f3-6fa9-4024-9a52-2452c1f33138")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "1V8" bidirectional
-			(at 119.38 130.65 180)
-			(uuid "53e817b7-51ea-42b9-9972-bfb67791c4f8")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "OTG" bidirectional
-			(at 119.38 134.15 180)
-			(uuid "e4902d63-aa05-4a33-ab32-3da7ffb8b328")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "TV" bidirectional
-			(at 119.38 137.65 180)
-			(uuid "3e178378-a78f-48a6-8836-f6bad0ee9c22")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "SD_DAT1" bidirectional
-			(at 119.38 141.15 180)
-			(uuid "87490800-50b6-442e-8034-6b4ada108358")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "SD_DAT0" bidirectional
-			(at 119.38 144.65 180)
-			(uuid "052958aa-baf5-4138-ad33-8195e02797f0")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "SD_CLK" bidirectional
-			(at 119.38 148.15 180)
-			(uuid "2fb368ee-66dc-443c-b92b-3917d952dedb")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "SD_CMD" bidirectional
-			(at 119.38 151.65 180)
-			(uuid "11a858df-0960-464e-807b-f186a401d45b")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "SD_DAT3" bidirectional
-			(at 119.38 155.15 180)
-			(uuid "16af3000-83d4-493e-9b1c-1fc978fb22a2")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "SD_DAT2" bidirectional
-			(at 119.38 158.65 180)
-			(uuid "b1b7bd1f-ed59-4e41-aa4b-f7c6e52af506")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "SD__1" bidirectional
-			(at 119.38 162.15 180)
-			(uuid "f01ed2f7-2d33-4fcc-a7ce-a0fcb549ad71")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "SD__2" bidirectional
-			(at 119.38 165.65 180)
-			(uuid "78c44b8e-1212-4cab-bb12-c9930192ceb4")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "SD__3" bidirectional
-			(at 119.38 169.15 180)
-			(uuid "ccb758be-d4cf-42eb-9138-5f8538e0d1b6")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "ID_SD/GPIO0" bidirectional
-			(at 199.38 100.90 0)
-			(uuid "1fc5828a-d9d0-44e2-8934-5a6a50be5e41")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "ID_SC/GPIO1" bidirectional
-			(at 199.38 104.40 0)
-			(uuid "37c05748-619e-4365-8004-52d3cf8b845d")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "SDA/GPIO2" bidirectional
-			(at 199.38 107.90 0)
-			(uuid "8e023782-bfad-46c9-86c8-bb42a8d3b1ab")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "SCL/GPIO3" bidirectional
-			(at 199.38 111.40 0)
-			(uuid "ae0bb2ce-8327-4f09-95d1-30cebdae7805")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "GCLK0/GPIO4" bidirectional
-			(at 199.38 114.90 0)
-			(uuid "65df9c9d-7b3c-4a1c-8869-8f0fb548670f")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "GCLK1/GPIO5" bidirectional
-			(at 199.38 118.40 0)
-			(uuid "eccf4a12-7087-4cba-b766-6fc96ddb66ed")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "GCLK2/GPIO6" bidirectional
-			(at 199.38 121.90 0)
-			(uuid "c4d8846e-08a4-496f-96db-f83d6be39bbe")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "~{CE1}/GPIO7" bidirectional
-			(at 199.38 125.40 0)
-			(uuid "f0b65f06-9ed7-4175-91d9-bbbdc9d24409")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "~{CE0}/GPIO8" bidirectional
-			(at 199.38 128.90 0)
-			(uuid "7952563c-5c02-4f99-bad2-13d1fb84b5ab")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "MISO0/GPIO9" bidirectional
-			(at 199.38 132.40 0)
-			(uuid "cb89d8fa-5b98-444b-8779-bb0627da236f")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "MOSI0/GPIO10" bidirectional
-			(at 199.38 135.90 0)
-			(uuid "77b3f771-549f-48e8-9e5f-c5d5ba26b3bf")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "SCLK0/GPIO11" bidirectional
-			(at 199.38 139.40 0)
-			(uuid "16d9c2f3-4f50-496c-8baf-f704125599b5")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "PWM0/GPIO12" bidirectional
-			(at 199.38 142.90 0)
-			(uuid "40c1636e-848b-4052-8610-1c1e7423677a")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "PWM1/GPIO13" bidirectional
-			(at 199.38 146.40 0)
-			(uuid "3918d0a6-fff3-4d5c-979f-a9459ca00159")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "WL_ON" bidirectional
-			(at 199.38 149.90 0)
-			(uuid "26abfe72-2901-478e-868c-10481ca7fd46")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "BT_ON" bidirectional
-			(at 199.38 153.40 0)
-			(uuid "f4534585-95cb-42d4-be3e-4bdd5c17c978")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "RUN" bidirectional
-			(at 199.38 156.90 0)
-			(uuid "9422aab0-4e1f-4f54-8896-59a21da0a3f4")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "CORE" bidirectional
-			(at 199.38 160.40 0)
-			(uuid "2a047ac8-40a5-4b64-afcc-fa455e4fd796")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "STATUS_LED" bidirectional
-			(at 199.38 163.90 0)
-			(uuid "549e395d-06a4-4163-aa3c-68ae708c8e27")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "USB_DP" bidirectional
-			(at 199.38 167.40 0)
-			(uuid "9bd08c1b-9243-4b6f-98f4-ea5ae01cbc51")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "USB_DM" bidirectional
-			(at 199.38 170.90 0)
-			(uuid "893670f6-4e81-479d-af5e-d869d7ce7049")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "GPIO4" bidirectional
-			(at 159.38 25.40 90)
-			(uuid "567b0b9f-0ed0-478f-8ddf-6abc063550a7")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
 			)
 		)
 		(instances
@@ -728,6 +242,438 @@
 				)
 			)
 		)
+		(pin "GPIO14/TXD" bidirectional
+		(at 119.38 114.57 180)
+		(uuid "d5aad726-e75c-4ae9-a83c-be931587a9d6")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+		(pin "GPIO15/RXD" bidirectional
+		(at 119.38 119.57 180)
+		(uuid "2cfbf339-072c-4d43-9c82-2004e62968e5")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+		(pin "GPIO16" bidirectional
+		(at 119.38 124.57 180)
+		(uuid "0cbea79d-6cbe-413b-b695-33292866ee4d")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+		(pin "GPIO17" bidirectional
+		(at 119.38 129.57 180)
+		(uuid "5eacde9b-5be8-4e24-b76a-2db89472255f")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+		(pin "GPIO18/PWM0" bidirectional
+		(at 119.38 134.57 180)
+		(uuid "2f4acc99-fea4-45db-a982-4374241a309b")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+		(pin "GPIO19/MISO1" bidirectional
+		(at 119.38 139.57 180)
+		(uuid "2b76a7c4-45d0-4d9e-9031-b99b7332a8d4")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+		(pin "GPIO20/MOSI1" bidirectional
+		(at 119.38 144.57 180)
+		(uuid "259a87b0-e0df-429d-ae24-57859128c1f6")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+		(pin "GPIO21/SCLK1" bidirectional
+		(at 119.38 149.57 180)
+		(uuid "00ceba3b-3a0c-4651-99eb-a30a60fd38d9")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+		(pin "GPIO22" bidirectional
+		(at 119.38 154.57 180)
+		(uuid "5f6ccf5c-e582-4620-bdf5-15a067724f47")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+		(pin "GPIO23" bidirectional
+		(at 119.38 159.57 180)
+		(uuid "8999d29c-9e29-4f68-8a16-448c39d0a630")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+		(pin "GPIO24" bidirectional
+		(at 119.38 164.57 180)
+		(uuid "31c50f12-4a33-4e90-b2bd-d62e8fc411d9")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+		(pin "GPIO25" bidirectional
+		(at 119.38 169.57 180)
+		(uuid "d3e1220a-d630-4a0e-9a8b-ed54fcb5e52d")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+		(pin "GPIO26" bidirectional
+		(at 119.38 174.57 180)
+		(uuid "c97a04dc-d84b-4510-bc6e-bf8c596a7cf1")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+		(pin "GPIO27" bidirectional
+		(at 119.38 179.57 180)
+		(uuid "7c1e82f3-6fa9-4024-9a52-2452c1f33138")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+		(pin "1V8" bidirectional
+		(at 119.38 184.57 180)
+		(uuid "53e817b7-51ea-42b9-9972-bfb67791c4f8")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+		(pin "OTG" bidirectional
+		(at 119.38 189.57 180)
+		(uuid "e4902d63-aa05-4a33-ab32-3da7ffb8b328")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+		(pin "TV" bidirectional
+		(at 119.38 194.57 180)
+		(uuid "3e178378-a78f-48a6-8836-f6bad0ee9c22")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+		(pin "SD_DAT1" bidirectional
+		(at 119.38 199.57 180)
+		(uuid "87490800-50b6-442e-8034-6b4ada108358")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+		(pin "SD_DAT0" bidirectional
+		(at 119.38 204.57 180)
+		(uuid "052958aa-baf5-4138-ad33-8195e02797f0")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+		(pin "SD_CLK" bidirectional
+		(at 119.38 209.57 180)
+		(uuid "2fb368ee-66dc-443c-b92b-3917d952dedb")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+		(pin "SD_CMD" bidirectional
+		(at 119.38 214.57 180)
+		(uuid "11a858df-0960-464e-807b-f186a401d45b")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+		(pin "SD_DAT3" bidirectional
+		(at 119.38 219.57 180)
+		(uuid "16af3000-83d4-493e-9b1c-1fc978fb22a2")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+		(pin "SD_DAT2" bidirectional
+		(at 119.38 224.57 180)
+		(uuid "b1b7bd1f-ed59-4e41-aa4b-f7c6e52af506")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+		(pin "SD__1" bidirectional
+		(at 119.38 229.57 180)
+		(uuid "f01ed2f7-2d33-4fcc-a7ce-a0fcb549ad71")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+		(pin "SD__2" bidirectional
+		(at 119.38 234.57 180)
+		(uuid "78c44b8e-1212-4cab-bb12-c9930192ceb4")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+		(pin "SD__3" bidirectional
+		(at 119.38 239.57 180)
+		(uuid "ccb758be-d4cf-42eb-9138-5f8538e0d1b6")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+		(pin "ID_SD/GPIO0" bidirectional
+		(at 239.38 142.07 0)
+		(uuid "1fc5828a-d9d0-44e2-8934-5a6a50be5e41")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+		(pin "ID_SC/GPIO1" bidirectional
+		(at 239.38 147.07 0)
+		(uuid "37c05748-619e-4365-8004-52d3cf8b845d")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+		(pin "SDA/GPIO2" bidirectional
+		(at 239.38 152.07 0)
+		(uuid "8e023782-bfad-46c9-86c8-bb42a8d3b1ab")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+		(pin "SCL/GPIO3" bidirectional
+		(at 239.38 157.07 0)
+		(uuid "ae0bb2ce-8327-4f09-95d1-30cebdae7805")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+		(pin "GCLK0/GPIO4" bidirectional
+		(at 239.38 162.07 0)
+		(uuid "65df9c9d-7b3c-4a1c-8869-8f0fb548670f")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+		(pin "GCLK1/GPIO5" bidirectional
+		(at 239.38 167.07 0)
+		(uuid "eccf4a12-7087-4cba-b766-6fc96ddb66ed")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+		(pin "GCLK2/GPIO6" bidirectional
+		(at 239.38 172.07 0)
+		(uuid "c4d8846e-08a4-496f-96db-f83d6be39bbe")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+		(pin "~{CE1}/GPIO7" bidirectional
+		(at 239.38 177.07 0)
+		(uuid "f0b65f06-9ed7-4175-91d9-bbbdc9d24409")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+		(pin "~{CE0}/GPIO8" bidirectional
+		(at 239.38 182.07 0)
+		(uuid "7952563c-5c02-4f99-bad2-13d1fb84b5ab")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+		(pin "MISO0/GPIO9" bidirectional
+		(at 239.38 187.07 0)
+		(uuid "cb89d8fa-5b98-444b-8779-bb0627da236f")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+		(pin "MOSI0/GPIO10" bidirectional
+		(at 239.38 192.07 0)
+		(uuid "77b3f771-549f-48e8-9e5f-c5d5ba26b3bf")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+		(pin "SCLK0/GPIO11" bidirectional
+		(at 239.38 197.07 0)
+		(uuid "16d9c2f3-4f50-496c-8baf-f704125599b5")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+		(pin "PWM0/GPIO12" bidirectional
+		(at 239.38 202.07 0)
+		(uuid "40c1636e-848b-4052-8610-1c1e7423677a")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+		(pin "PWM1/GPIO13" bidirectional
+		(at 239.38 207.07 0)
+		(uuid "3918d0a6-fff3-4d5c-979f-a9459ca00159")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+		(pin "WL_ON" bidirectional
+		(at 239.38 212.07 0)
+		(uuid "26abfe72-2901-478e-868c-10481ca7fd46")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+		(pin "BT_ON" bidirectional
+		(at 239.38 217.07 0)
+		(uuid "f4534585-95cb-42d4-be3e-4bdd5c17c978")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+		(pin "RUN" bidirectional
+		(at 239.38 222.07 0)
+		(uuid "9422aab0-4e1f-4f54-8896-59a21da0a3f4")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+		(pin "CORE" bidirectional
+		(at 239.38 227.07 0)
+		(uuid "2a047ac8-40a5-4b64-afcc-fa455e4fd796")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+		(pin "STATUS_LED" bidirectional
+		(at 239.38 232.07 0)
+		(uuid "549e395d-06a4-4163-aa3c-68ae708c8e27")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+		(pin "USB_DP" bidirectional
+		(at 239.38 237.07 0)
+		(uuid "9bd08c1b-9243-4b6f-98f4-ea5ae01cbc51")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+		(pin "USB_DM" bidirectional
+		(at 239.38 242.07 0)
+		(uuid "893670f6-4e81-479d-af5e-d869d7ce7049")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+		(pin "GPIO4" bidirectional
+		(at 137.56 52.07 90)
+		(uuid "567b0b9f-0ed0-478f-8ddf-6abc063550a7")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
 	)
 	(sheet
 		(at 210.82 49.53)

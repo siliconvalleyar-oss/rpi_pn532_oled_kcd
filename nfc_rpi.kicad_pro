@@ -661,7 +661,7 @@
         "uuid": "49150dc2-d01c-4907-8daf-0ff812da3f6d"
       }
     ],
-    "used_designators": "PN2,#PWR20-22",
+    "used_designators": "SW1-8,R1-10,#PWR1,#PWR3-22,C1-10,PN2,J1-3",
     "variants": []
   },
   "sheets": [
@@ -674,24 +674,24 @@
       "nfc"
     ],
     [
-      "e7408271-346a-4a7d-a5c2-b1a8b0208d47",
+      "17d56b9c-b5ec-4a0f-aaca-2f9ebdad3756",
       "oled"
     ],
     [
-      "be750499-642b-480d-a705-2f2f5d51d73a",
-      "raspberry"
+      "71d3720c-a5db-4729-90a3-54fbbda1b3c8",
+      "Raspberry"
     ],
     [
-      "195d9f98-a83f-43b9-8312-c38d1e087b70",
-      "pwr"
+      "258c013b-d18b-42df-94f2-9057b2271b6c",
+      "AnalogDevice"
     ],
     [
-      "bbdaf4c0-ccc0-41eb-9083-de174647bac8",
+      "ef9193a8-fc5f-44fd-92e9-9de4f9e10db6",
       "swicth"
     ],
     [
-      "93a7c070-cb0d-4079-a6d6-049c79d871c4",
-      "AnalogDevice"
+      "5e321ac9-453c-480a-a67a-ccc6902108aa",
+      "pwr"
     ],
     [
       "5b319416-1454-47d5-9203-918948f63f25",

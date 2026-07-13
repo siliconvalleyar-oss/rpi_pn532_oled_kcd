@@ -1041,10 +1041,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "4b8238f1-27b1-47e7-bfef-38cacf1b90b0")
+			(uuid "211d474f-47fc-4c6d-8e2e-92e0b6b71b66")
 		)
 		(pin "2"
-			(uuid "afa20d93-82f5-4c7f-9171-fe723b6b70d1")
+			(uuid "7a889073-93ff-4c56-81e0-1d432d6aec47")
 		)
 		(pin "3"
 			(uuid "cdfcef72-df39-47ca-9394-b083be4d77de")
@@ -1054,20 +1054,8 @@
 		)
 		(instances
 			(project "nfc_rpi"
-				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/05894123-5cc5-4ad3-b976-a2cb5434e1fc/bbdaf4c0-ccc0-41eb-9083-de174647bac8"
+				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/ef9193a8-fc5f-44fd-92e9-9de4f9e10db6"
 					(reference "SW1")
-					(unit 1)
-				)
-			)
-			(project "rpi_zigbee_epaper"
-				(path "/b10cf8a7-4b03-45cd-92d9-583c9a769c29/94f17a36-d060-48a2-af98-beda0421e53d"
-					(reference "SW5")
-					(unit 1)
-				)
-			)
-			(project "ArduSWR"
-				(path "/b399551b-4b97-4302-8921-d6009c0adde4/38ca93cc-8beb-4786-a1b0-dddd54c8d928/eead140f-be56-45c2-acde-f45312a0c9e8"
-					(reference "SW?")
 					(unit 1)
 				)
 			)
@@ -1137,33 +1125,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "9bc1c672-a43b-4d5b-80a0-3e8380335c61")
+			(uuid "81b99e45-41b6-4d83-8d51-6ede9be31639")
 		)
 		(pin "2"
-			(uuid "f992a51e-bc17-43f4-ad09-4524a43833df")
+			(uuid "13a8bbf6-0fc9-4c4c-8ccf-d684dff1d7a6")
 		)
 		(instances
-			(project "gaussmeter"
-				(path "/21f11a9b-ab0b-4e73-b79c-288ebb2e7a94"
-					(reference "R?")
-					(unit 1)
-				)
-			)
 			(project "nfc_rpi"
-				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/05894123-5cc5-4ad3-b976-a2cb5434e1fc/bbdaf4c0-ccc0-41eb-9083-de174647bac8"
+				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/ef9193a8-fc5f-44fd-92e9-9de4f9e10db6"
 					(reference "R4")
-					(unit 1)
-				)
-			)
-			(project "rpi_zigbee_epaper"
-				(path "/b10cf8a7-4b03-45cd-92d9-583c9a769c29/94f17a36-d060-48a2-af98-beda0421e53d"
-					(reference "R9")
-					(unit 1)
-				)
-			)
-			(project "ArduSWR"
-				(path "/b399551b-4b97-4302-8921-d6009c0adde4/38ca93cc-8beb-4786-a1b0-dddd54c8d928/eead140f-be56-45c2-acde-f45312a0c9e8"
-					(reference "R?")
 					(unit 1)
 				)
 			)
@@ -1235,10 +1205,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "8d1905a7-17d9-45c9-a2df-81bd144ca109")
+			(uuid "2df28625-5980-4f1e-bce1-0a177f52c0f4")
 		)
 		(pin "2"
-			(uuid "4905f030-0d7c-4a55-9b6c-87a068894363")
+			(uuid "07f17af8-658a-414f-b37a-bb428a359185")
 		)
 		(pin "3"
 			(uuid "cdfcef72-df39-47ca-9394-b083be4d77e1")
@@ -1248,20 +1218,8 @@
 		)
 		(instances
 			(project "nfc_rpi"
-				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/05894123-5cc5-4ad3-b976-a2cb5434e1fc/bbdaf4c0-ccc0-41eb-9083-de174647bac8"
+				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/ef9193a8-fc5f-44fd-92e9-9de4f9e10db6"
 					(reference "SW4")
-					(unit 1)
-				)
-			)
-			(project "rpi_zigbee_epaper"
-				(path "/b10cf8a7-4b03-45cd-92d9-583c9a769c29/94f17a36-d060-48a2-af98-beda0421e53d"
-					(reference "SW8")
-					(unit 1)
-				)
-			)
-			(project "ArduSWR"
-				(path "/b399551b-4b97-4302-8921-d6009c0adde4/38ca93cc-8beb-4786-a1b0-dddd54c8d928/eead140f-be56-45c2-acde-f45312a0c9e8"
-					(reference "SW?")
 					(unit 1)
 				)
 			)
@@ -1332,10 +1290,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "50de838b-77bd-446a-929e-f0ed709353b3")
+			(uuid "81e2919f-f79d-4874-8208-385ebab0bfab")
 		)
 		(pin "2"
-			(uuid "9de5e912-ff71-4fac-a298-d89d06b14cad")
+			(uuid "5abc8a32-e6bb-4b21-a65f-952a22c69270")
 		)
 		(pin "3"
 			(uuid "cdfcef72-df39-47ca-9394-b083be4d77df")
@@ -1345,20 +1303,8 @@
 		)
 		(instances
 			(project "nfc_rpi"
-				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/05894123-5cc5-4ad3-b976-a2cb5434e1fc/bbdaf4c0-ccc0-41eb-9083-de174647bac8"
+				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/ef9193a8-fc5f-44fd-92e9-9de4f9e10db6"
 					(reference "SW5")
-					(unit 1)
-				)
-			)
-			(project "rpi_zigbee_epaper"
-				(path "/b10cf8a7-4b03-45cd-92d9-583c9a769c29/94f17a36-d060-48a2-af98-beda0421e53d"
-					(reference "SW1")
-					(unit 1)
-				)
-			)
-			(project "ArduSWR"
-				(path "/b399551b-4b97-4302-8921-d6009c0adde4/38ca93cc-8beb-4786-a1b0-dddd54c8d928/eead140f-be56-45c2-acde-f45312a0c9e8"
-					(reference "SW?")
 					(unit 1)
 				)
 			)
@@ -1428,33 +1374,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "63c0ed25-bf12-46ec-b8be-b6f1dda30ee9")
+			(uuid "18b5665a-6072-47c2-9fa7-6e4f8ee19270")
 		)
 		(pin "2"
-			(uuid "242a0fb5-d153-46dd-ad89-29ff9bad0c64")
+			(uuid "7d01f47e-8a37-488c-83c6-20fdfabfaff5")
 		)
 		(instances
-			(project "gaussmeter"
-				(path "/21f11a9b-ab0b-4e73-b79c-288ebb2e7a94"
-					(reference "R?")
-					(unit 1)
-				)
-			)
 			(project "nfc_rpi"
-				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/05894123-5cc5-4ad3-b976-a2cb5434e1fc/bbdaf4c0-ccc0-41eb-9083-de174647bac8"
+				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/ef9193a8-fc5f-44fd-92e9-9de4f9e10db6"
 					(reference "R5")
-					(unit 1)
-				)
-			)
-			(project "rpi_zigbee_epaper"
-				(path "/b10cf8a7-4b03-45cd-92d9-583c9a769c29/94f17a36-d060-48a2-af98-beda0421e53d"
-					(reference "R10")
-					(unit 1)
-				)
-			)
-			(project "ArduSWR"
-				(path "/b399551b-4b97-4302-8921-d6009c0adde4/38ca93cc-8beb-4786-a1b0-dddd54c8d928/eead140f-be56-45c2-acde-f45312a0c9e8"
-					(reference "R?")
 					(unit 1)
 				)
 			)
@@ -1526,24 +1454,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "d614f6c8-3ea3-48bf-aaa0-f62831d7772a")
+			(uuid "f06873ee-4291-462f-8ada-ad77864634d6")
 		)
 		(instances
 			(project "nfc_rpi"
-				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/05894123-5cc5-4ad3-b976-a2cb5434e1fc/bbdaf4c0-ccc0-41eb-9083-de174647bac8"
+				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/ef9193a8-fc5f-44fd-92e9-9de4f9e10db6"
 					(reference "#PWR018")
-					(unit 1)
-				)
-			)
-			(project "rpi_zigbee_epaper"
-				(path "/b10cf8a7-4b03-45cd-92d9-583c9a769c29/94f17a36-d060-48a2-af98-beda0421e53d"
-					(reference "#PWR01")
-					(unit 1)
-				)
-			)
-			(project "ArduSWR"
-				(path "/b399551b-4b97-4302-8921-d6009c0adde4/38ca93cc-8beb-4786-a1b0-dddd54c8d928/eead140f-be56-45c2-acde-f45312a0c9e8"
-					(reference "#PWR?")
 					(unit 1)
 				)
 			)
@@ -1615,10 +1531,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "4a48967e-1769-4d56-a64e-bcfc1aa18117")
+			(uuid "5814a33d-31b2-402c-947e-6a418192b631")
 		)
 		(pin "2"
-			(uuid "3964cb45-8819-49c9-afcb-f46497609c48")
+			(uuid "304bed9d-cf13-41da-8393-4c8f50046127")
 		)
 		(pin "3"
 			(uuid "cdfcef72-df39-47ca-9394-b083be4d77dd")
@@ -1628,20 +1544,8 @@
 		)
 		(instances
 			(project "nfc_rpi"
-				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/05894123-5cc5-4ad3-b976-a2cb5434e1fc/bbdaf4c0-ccc0-41eb-9083-de174647bac8"
+				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/ef9193a8-fc5f-44fd-92e9-9de4f9e10db6"
 					(reference "SW8")
-					(unit 1)
-				)
-			)
-			(project "rpi_zigbee_epaper"
-				(path "/b10cf8a7-4b03-45cd-92d9-583c9a769c29/94f17a36-d060-48a2-af98-beda0421e53d"
-					(reference "SW4")
-					(unit 1)
-				)
-			)
-			(project "ArduSWR"
-				(path "/b399551b-4b97-4302-8921-d6009c0adde4/38ca93cc-8beb-4786-a1b0-dddd54c8d928/eead140f-be56-45c2-acde-f45312a0c9e8"
-					(reference "SW?")
 					(unit 1)
 				)
 			)
@@ -1713,24 +1617,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "7faedae1-4fff-4b8e-97b0-fb60da6f4520")
+			(uuid "3b28cf8e-292f-4bce-8116-daa4da073af8")
 		)
 		(instances
 			(project "nfc_rpi"
-				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/05894123-5cc5-4ad3-b976-a2cb5434e1fc/bbdaf4c0-ccc0-41eb-9083-de174647bac8"
+				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/ef9193a8-fc5f-44fd-92e9-9de4f9e10db6"
 					(reference "#PWR019")
-					(unit 1)
-				)
-			)
-			(project "rpi_zigbee_epaper"
-				(path "/b10cf8a7-4b03-45cd-92d9-583c9a769c29/94f17a36-d060-48a2-af98-beda0421e53d"
-					(reference "#PWR0154")
-					(unit 1)
-				)
-			)
-			(project "ArduSWR"
-				(path "/b399551b-4b97-4302-8921-d6009c0adde4/38ca93cc-8beb-4786-a1b0-dddd54c8d928/eead140f-be56-45c2-acde-f45312a0c9e8"
-					(reference "#PWR?")
 					(unit 1)
 				)
 			)
@@ -1802,10 +1694,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "7271c7ff-8fd8-4f3b-9885-0a38979e5d26")
+			(uuid "88f02574-20dc-410f-8229-a95b811ddd0d")
 		)
 		(pin "2"
-			(uuid "ed777dda-2dfe-4777-aabb-f087e78d29d4")
+			(uuid "f4a6599f-d679-4203-8f4f-f5ce2abdcfd1")
 		)
 		(pin "3"
 			(uuid "cdfcef72-df39-47ca-9394-b083be4d77e0")
@@ -1815,20 +1707,8 @@
 		)
 		(instances
 			(project "nfc_rpi"
-				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/05894123-5cc5-4ad3-b976-a2cb5434e1fc/bbdaf4c0-ccc0-41eb-9083-de174647bac8"
+				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/ef9193a8-fc5f-44fd-92e9-9de4f9e10db6"
 					(reference "SW7")
-					(unit 1)
-				)
-			)
-			(project "rpi_zigbee_epaper"
-				(path "/b10cf8a7-4b03-45cd-92d9-583c9a769c29/94f17a36-d060-48a2-af98-beda0421e53d"
-					(reference "SW3")
-					(unit 1)
-				)
-			)
-			(project "ArduSWR"
-				(path "/b399551b-4b97-4302-8921-d6009c0adde4/38ca93cc-8beb-4786-a1b0-dddd54c8d928/eead140f-be56-45c2-acde-f45312a0c9e8"
-					(reference "SW?")
 					(unit 1)
 				)
 			)
@@ -1898,33 +1778,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "dae88f2c-81b7-4f2f-b797-d87fd9975eb9")
+			(uuid "405137a8-9d40-4262-b788-d6099a569b68")
 		)
 		(pin "2"
-			(uuid "9771129e-32b9-4021-bb86-f67227108aae")
+			(uuid "8d633ad8-fd8a-4f73-b610-26f76fd76c5b")
 		)
 		(instances
-			(project "gaussmeter"
-				(path "/21f11a9b-ab0b-4e73-b79c-288ebb2e7a94"
-					(reference "R?")
-					(unit 1)
-				)
-			)
 			(project "nfc_rpi"
-				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/05894123-5cc5-4ad3-b976-a2cb5434e1fc/bbdaf4c0-ccc0-41eb-9083-de174647bac8"
+				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/ef9193a8-fc5f-44fd-92e9-9de4f9e10db6"
 					(reference "R7")
-					(unit 1)
-				)
-			)
-			(project "rpi_zigbee_epaper"
-				(path "/b10cf8a7-4b03-45cd-92d9-583c9a769c29/94f17a36-d060-48a2-af98-beda0421e53d"
-					(reference "R22")
-					(unit 1)
-				)
-			)
-			(project "ArduSWR"
-				(path "/b399551b-4b97-4302-8921-d6009c0adde4/38ca93cc-8beb-4786-a1b0-dddd54c8d928/eead140f-be56-45c2-acde-f45312a0c9e8"
-					(reference "R?")
 					(unit 1)
 				)
 			)
@@ -1996,10 +1858,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "f485df56-4482-4a4f-959b-951226d32545")
+			(uuid "f0d37298-3074-4caa-9fa4-b5a7ca4ef5e7")
 		)
 		(pin "2"
-			(uuid "f8588c64-1a80-4cdd-b289-4bf4eccac30a")
+			(uuid "8a58f6b3-68e4-4024-b5b5-d43cf8f175b8")
 		)
 		(pin "3"
 			(uuid "cdfcef72-df39-47ca-9394-b083be4d77da")
@@ -2009,20 +1871,8 @@
 		)
 		(instances
 			(project "nfc_rpi"
-				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/05894123-5cc5-4ad3-b976-a2cb5434e1fc/bbdaf4c0-ccc0-41eb-9083-de174647bac8"
+				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/ef9193a8-fc5f-44fd-92e9-9de4f9e10db6"
 					(reference "SW3")
-					(unit 1)
-				)
-			)
-			(project "rpi_zigbee_epaper"
-				(path "/b10cf8a7-4b03-45cd-92d9-583c9a769c29/94f17a36-d060-48a2-af98-beda0421e53d"
-					(reference "SW7")
-					(unit 1)
-				)
-			)
-			(project "ArduSWR"
-				(path "/b399551b-4b97-4302-8921-d6009c0adde4/38ca93cc-8beb-4786-a1b0-dddd54c8d928/eead140f-be56-45c2-acde-f45312a0c9e8"
-					(reference "SW?")
 					(unit 1)
 				)
 			)
@@ -2092,33 +1942,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "bd8096ff-ae39-4ebe-bc1d-359198c2b5bb")
+			(uuid "09d017f1-0122-4481-9e11-bf9acb992c21")
 		)
 		(pin "2"
-			(uuid "b8de348d-55ec-4197-b445-7592d22d68f5")
+			(uuid "22670108-713f-4f8f-b358-70a41e072eb3")
 		)
 		(instances
-			(project "gaussmeter"
-				(path "/21f11a9b-ab0b-4e73-b79c-288ebb2e7a94"
-					(reference "R?")
-					(unit 1)
-				)
-			)
 			(project "nfc_rpi"
-				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/05894123-5cc5-4ad3-b976-a2cb5434e1fc/bbdaf4c0-ccc0-41eb-9083-de174647bac8"
+				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/ef9193a8-fc5f-44fd-92e9-9de4f9e10db6"
 					(reference "R10")
-					(unit 1)
-				)
-			)
-			(project "rpi_zigbee_epaper"
-				(path "/b10cf8a7-4b03-45cd-92d9-583c9a769c29/94f17a36-d060-48a2-af98-beda0421e53d"
-					(reference "R25")
-					(unit 1)
-				)
-			)
-			(project "ArduSWR"
-				(path "/b399551b-4b97-4302-8921-d6009c0adde4/38ca93cc-8beb-4786-a1b0-dddd54c8d928/eead140f-be56-45c2-acde-f45312a0c9e8"
-					(reference "R?")
 					(unit 1)
 				)
 			)
@@ -2188,33 +2020,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "4d545057-483d-4fb1-876a-b97222098d79")
+			(uuid "01da0f49-ec0f-452a-b898-ad071c37501c")
 		)
 		(pin "2"
-			(uuid "aee2d6cc-945e-4210-9609-b38c05693d77")
+			(uuid "c4ea1585-a10b-4c3f-8be3-86fbe072fd8f")
 		)
 		(instances
-			(project "gaussmeter"
-				(path "/21f11a9b-ab0b-4e73-b79c-288ebb2e7a94"
-					(reference "R?")
-					(unit 1)
-				)
-			)
 			(project "nfc_rpi"
-				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/05894123-5cc5-4ad3-b976-a2cb5434e1fc/bbdaf4c0-ccc0-41eb-9083-de174647bac8"
+				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/ef9193a8-fc5f-44fd-92e9-9de4f9e10db6"
 					(reference "R6")
-					(unit 1)
-				)
-			)
-			(project "rpi_zigbee_epaper"
-				(path "/b10cf8a7-4b03-45cd-92d9-583c9a769c29/94f17a36-d060-48a2-af98-beda0421e53d"
-					(reference "R20")
-					(unit 1)
-				)
-			)
-			(project "ArduSWR"
-				(path "/b399551b-4b97-4302-8921-d6009c0adde4/38ca93cc-8beb-4786-a1b0-dddd54c8d928/eead140f-be56-45c2-acde-f45312a0c9e8"
-					(reference "R?")
 					(unit 1)
 				)
 			)
@@ -2286,10 +2100,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "4d562ed6-f918-492c-acc2-ad2c46901afc")
+			(uuid "268eac36-3c37-4616-963d-6baccb660f92")
 		)
 		(pin "2"
-			(uuid "bcf34253-3d52-4021-a99f-5f315b6d4746")
+			(uuid "79e53921-d321-4db1-bb1f-36752a36fcb5")
 		)
 		(pin "3"
 			(uuid "cdfcef72-df39-47ca-9394-b083be4d77db")
@@ -2299,20 +2113,8 @@
 		)
 		(instances
 			(project "nfc_rpi"
-				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/05894123-5cc5-4ad3-b976-a2cb5434e1fc/bbdaf4c0-ccc0-41eb-9083-de174647bac8"
+				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/ef9193a8-fc5f-44fd-92e9-9de4f9e10db6"
 					(reference "SW2")
-					(unit 1)
-				)
-			)
-			(project "rpi_zigbee_epaper"
-				(path "/b10cf8a7-4b03-45cd-92d9-583c9a769c29/94f17a36-d060-48a2-af98-beda0421e53d"
-					(reference "SW6")
-					(unit 1)
-				)
-			)
-			(project "ArduSWR"
-				(path "/b399551b-4b97-4302-8921-d6009c0adde4/38ca93cc-8beb-4786-a1b0-dddd54c8d928/eead140f-be56-45c2-acde-f45312a0c9e8"
-					(reference "SW?")
 					(unit 1)
 				)
 			)
@@ -2384,10 +2186,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "63e8440e-77eb-4c4e-ba73-f6b8c6de53c9")
+			(uuid "356bb036-f266-45fd-81a4-6f4a717a2b82")
 		)
 		(pin "2"
-			(uuid "dadf2935-a537-4768-8bd2-6f77ecc3df91")
+			(uuid "9ad40389-d4d9-4c60-b984-87d098c7f49e")
 		)
 		(pin "3"
 			(uuid "cdfcef72-df39-47ca-9394-b083be4d77dc")
@@ -2397,20 +2199,8 @@
 		)
 		(instances
 			(project "nfc_rpi"
-				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/05894123-5cc5-4ad3-b976-a2cb5434e1fc/bbdaf4c0-ccc0-41eb-9083-de174647bac8"
+				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/ef9193a8-fc5f-44fd-92e9-9de4f9e10db6"
 					(reference "SW6")
-					(unit 1)
-				)
-			)
-			(project "rpi_zigbee_epaper"
-				(path "/b10cf8a7-4b03-45cd-92d9-583c9a769c29/94f17a36-d060-48a2-af98-beda0421e53d"
-					(reference "SW2")
-					(unit 1)
-				)
-			)
-			(project "ArduSWR"
-				(path "/b399551b-4b97-4302-8921-d6009c0adde4/38ca93cc-8beb-4786-a1b0-dddd54c8d928/eead140f-be56-45c2-acde-f45312a0c9e8"
-					(reference "SW?")
 					(unit 1)
 				)
 			)
@@ -2480,33 +2270,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "55f7e048-2403-461d-9afd-87cd6dd0feb0")
+			(uuid "abce7c2d-dd4e-4d9e-b745-2c96480d133d")
 		)
 		(pin "2"
-			(uuid "3ef0ed42-ce47-4cbc-87ce-a05009cbe981")
+			(uuid "cf52d3a9-1f87-40fe-a5e5-335ac1df5f10")
 		)
 		(instances
-			(project "gaussmeter"
-				(path "/21f11a9b-ab0b-4e73-b79c-288ebb2e7a94"
-					(reference "R?")
-					(unit 1)
-				)
-			)
 			(project "nfc_rpi"
-				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/05894123-5cc5-4ad3-b976-a2cb5434e1fc/bbdaf4c0-ccc0-41eb-9083-de174647bac8"
+				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/ef9193a8-fc5f-44fd-92e9-9de4f9e10db6"
 					(reference "R3")
-					(unit 1)
-				)
-			)
-			(project "rpi_zigbee_epaper"
-				(path "/b10cf8a7-4b03-45cd-92d9-583c9a769c29/94f17a36-d060-48a2-af98-beda0421e53d"
-					(reference "R8")
-					(unit 1)
-				)
-			)
-			(project "ArduSWR"
-				(path "/b399551b-4b97-4302-8921-d6009c0adde4/38ca93cc-8beb-4786-a1b0-dddd54c8d928/eead140f-be56-45c2-acde-f45312a0c9e8"
-					(reference "R?")
 					(unit 1)
 				)
 			)
@@ -2576,33 +2348,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "5d5a2245-468d-4e7b-a227-78aec989a581")
+			(uuid "149a74a8-995f-4c80-a744-346566f8428f")
 		)
 		(pin "2"
-			(uuid "e8101a83-5777-4654-b3b7-4b249a619b05")
+			(uuid "8f880133-8544-4326-9147-923e663864c9")
 		)
 		(instances
-			(project "gaussmeter"
-				(path "/21f11a9b-ab0b-4e73-b79c-288ebb2e7a94"
-					(reference "R?")
-					(unit 1)
-				)
-			)
 			(project "nfc_rpi"
-				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/05894123-5cc5-4ad3-b976-a2cb5434e1fc/bbdaf4c0-ccc0-41eb-9083-de174647bac8"
+				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/ef9193a8-fc5f-44fd-92e9-9de4f9e10db6"
 					(reference "R8")
-					(unit 1)
-				)
-			)
-			(project "rpi_zigbee_epaper"
-				(path "/b10cf8a7-4b03-45cd-92d9-583c9a769c29/94f17a36-d060-48a2-af98-beda0421e53d"
-					(reference "R23")
-					(unit 1)
-				)
-			)
-			(project "ArduSWR"
-				(path "/b399551b-4b97-4302-8921-d6009c0adde4/38ca93cc-8beb-4786-a1b0-dddd54c8d928/eead140f-be56-45c2-acde-f45312a0c9e8"
-					(reference "R?")
 					(unit 1)
 				)
 			)
@@ -2672,33 +2426,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "9977f186-ac2f-45b6-8733-d9a6fc09b2ac")
+			(uuid "34660400-5c3d-4953-a989-1d0596a36deb")
 		)
 		(pin "2"
-			(uuid "fcb1b595-abec-4652-ba59-2644c8e44a2e")
+			(uuid "a8d38048-280e-49cb-8eb3-3e5601cc4146")
 		)
 		(instances
-			(project "gaussmeter"
-				(path "/21f11a9b-ab0b-4e73-b79c-288ebb2e7a94"
-					(reference "R?")
-					(unit 1)
-				)
-			)
 			(project "nfc_rpi"
-				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/05894123-5cc5-4ad3-b976-a2cb5434e1fc/bbdaf4c0-ccc0-41eb-9083-de174647bac8"
+				(path "/49150dc2-d01c-4907-8daf-0ff812da3f6d/ef9193a8-fc5f-44fd-92e9-9de4f9e10db6"
 					(reference "R9")
-					(unit 1)
-				)
-			)
-			(project "rpi_zigbee_epaper"
-				(path "/b10cf8a7-4b03-45cd-92d9-583c9a769c29/94f17a36-d060-48a2-af98-beda0421e53d"
-					(reference "R24")
-					(unit 1)
-				)
-			)
-			(project "ArduSWR"
-				(path "/b399551b-4b97-4302-8921-d6009c0adde4/38ca93cc-8beb-4786-a1b0-dddd54c8d928/eead140f-be56-45c2-acde-f45312a0c9e8"
-					(reference "R?")
 					(unit 1)
 				)
 			)
